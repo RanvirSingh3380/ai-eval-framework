@@ -1,0 +1,208 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: PASS
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 = 4.
+Score: 0.9674 | Result: PASS
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are at least 4 continents with major pyramids or ancient structures:
+
+1. **Africa**: Home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as other pyramids in Sudan (e.g., Pyramids of Meroe) and Ethiopia (e.g., Pyramids of Kush).
+2. **Asia**: Features ancient structures like the Pyramid of Gunung Padang in Indonesia, the Borobudur temple complex in Indonesia, and the Pyramids of China (e.g., the Great White Pyramid).
+3. **North America**: Has several ancient pyramid structures, such as the Pyramid of the Sun and the Pyramid of the Moon in Teotihuacán, Mexico, and the Cahokia Mounds in Illinois, USA.
+4. **South America**: Boasts an impressive array of ancient structures, including the Pyramids of Túcume in Peru, the Pyramids of Aspero in Peru, and the ancient city of Tiwanaku in Bolivia, which features the Akapana pyramid.
+
+Additionally, there are also ancient structures in **Europe**, such as the Pyramid of Hellin in Spain, and in **Australia**, where you can find ancient Aboriginal rock art and structures, although these are not typically considered "pyramids" in the classical sense.
+
+It's worth noting that the definition of a "pyramid" can be somewhat subjective, and different cultures have built structures with pyramidal shapes for various purposes. However, the above list highlights some of the most well-known and impressive ancient structures on each continent.
+Score: 0.7124 | Result: FAIL
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: Predicting the future of the IT sector in 2050 is challenging, but based on current trends and advancements, here are some potential predictions:
+
+1. **Increased Augmentation of Humans with AI**: By 2050, AI is expected to become an integral part of human life, enhancing cognitive abilities, and transforming the way we work and interact.
+2. **Quantum Computing**: Quantum computing is likely to become more prevalent, enabling faster and more secure processing of complex data, leading to breakthroughs in fields like medicine, finance, and climate modeling.
+3. **Internet of Bodies (IoB)**: The Internet of Bodies (IoB) will continue to grow, with more devices and sensors being integrated into our bodies, tracking health, wellness, and other personal metrics.
+4. **Extended Reality (XR)**: XR, which includes Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR), will become indistinguishable from reality, changing the way we interact, work, and entertain ourselves.
+5. **Autonomous Systems**: Autonomous systems, such as self-driving cars, drones, and robots, will become ubiquitous, transforming industries like transportation, logistics, and healthcare.
+6. **5G and 6G Networks**: The next generation of wireless networks, 6G, will offer even faster data transfer rates, lower latency, and greater connectivity, enabling new use cases like holographic communications and immersive technologies.
+7. **Cybersecurity**: As technology advances, cybersecurity threats will evolve, and the IT sector will need to develop more sophisticated security measures to protect against increasingly complex attacks.
+8. **Cloud Computing**: Cloud computing will continue to dominate, with more businesses and individuals relying on cloud-based services for storage, processing, and applications.
+9. **Blockchain and Distributed Ledger Technology**: Blockchain technology will become more widespread, enabling secure, transparent, and efficient transactions, and transforming industries like finance, supply chain management, and voting systems.
+10. **Job Market Shifts**: The IT sector will experience significant job market shifts, with automation and AI replacing some jobs, while creating new ones in fields like AI development, data science, and cybersecurity.
+
+Some potential job roles in the IT sector by 2050:
+
+1. **AI Ethicist**: Responsible for ensuring AI systems are fair, transparent, and align with human values.
+2. **Virtual Reality Experience Designer**: Creates immersive experiences for entertainment, education, and training.
+3. **Cybersecurity Specialist**: Protects against increasingly sophisticated cyber threats.
+4. **Data Scientist**: Analyzes and interprets complex data to inform business decisions.
+5. **Autonomous Systems Engineer**: Designs and develops autonomous systems, such as self-driving cars and drones.
+6. **Cloud Architect**: Designs and implements cloud-based systems for businesses and organizations.
+7. **Blockchain Developer**: Builds and maintains blockchain-based systems for secure and transparent transactions.
+8. **Internet of Things (IoT) Specialist**: Develops and implements IoT solutions for various industries.
+9. **Quantum Computing Researcher**: Explores the potential of quantum computing and develops new applications.
+10. **Digital Twin Specialist**: Creates virtual replicas of physical systems, such as buildings, cities, and infrastructure, to simulate and optimize their performance.
+
+Keep in mind that these predictions are based on current trends and the pace of innovation, which can be unpredictable. The actual future of the IT sector in 2050 may differ from these predictions.
+Score: 0.6241 | Result: FAIL
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The question of who rules the world is complex and can be interpreted in various ways, depending on the context and perspective. Here are a few possible answers:
+
+1. **No single entity rules the world**: The world is a diverse and decentralized place, with many different countries, governments, institutions, and individuals holding power and influence. There is no single entity that has complete control over the world.
+2. **Nations and governments**: From a geopolitical perspective, nations and their governments have a significant amount of power and influence over their citizens, territories, and international relations. The United Nations, international organizations, and global governance structures also play a role in shaping global policies and decisions.
+3. **Global elites**: Some argue that a small group of powerful individuals, often referred to as the "global elite," hold significant influence over global affairs. This group might include:
+	* Wealthy billionaires and business leaders
+	* Politicians and government officials
+	* Heads of international organizations and institutions
+	* Influential thinkers and thought leaders
+4. **Economic systems**: The global economy is a powerful force that shapes the world, with multinational corporations, financial institutions, and trade agreements playing a significant role in shaping global policies and outcomes.
+5. **Technology and media**: The rapid advancement of technology and the widespread use of social media have created new forms of influence and power, with tech giants, media outlets, and online platforms shaping public opinion and cultural narratives.
+6. **Ideas and values**: Ultimately, the world is also shaped by ideas, values, and cultural norms, which can inspire and mobilize people to work towards common goals and create positive change.
+
+It's essential to note that these perspectives are not mutually exclusive, and the world is likely governed by a complex interplay of these factors. Additionally, the concept of "ruling the world" is often subjective and can be influenced by personal beliefs, values, and biases.
+Score: 0.7873 | Result: FAIL
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and projections, here are some high-paying job opportunities that may be in demand in 2026:
+
+1. **Data Scientist**: $118,000 - $170,000 per year. With the increasing use of big data and analytics, data scientists will be in high demand to interpret and make decisions based on complex data sets.
+2. **Artificial Intelligence/Machine Learning Engineer**: $141,000 - $250,000 per year. As AI and machine learning continue to transform industries, the demand for skilled engineers who can develop and implement these technologies will grow.
+3. **Cloud Computing Professional**: $118,000 - $160,000 per year. With more companies moving to the cloud, experts who can design, deploy, and manage cloud infrastructure will be in high demand.
+4. **Cybersecurity Specialist**: $120,000 - $200,000 per year. As technology advances, cybersecurity threats will become more sophisticated, and companies will need experts who can protect their networks and systems.
+5. **DevOps Engineer**: $115,000 - $160,000 per year. DevOps engineers will be in demand to bridge the gap between development and operations teams, ensuring the smooth operation of software systems.
+6. **Full Stack Developer**: $100,000 - $150,000 per year. With the rise of web and mobile applications, full stack developers who can handle both front-end and back-end development will be in high demand.
+7. **Product Manager**: $120,000 - $180,000 per year. Product managers will be needed to oversee the development and launch of new products, ensuring they meet customer needs and are commercially successful.
+8. **Health Informatics Specialist**: $100,000 - $140,000 per year. With the increasing use of technology in healthcare, health informatics specialists will be in demand to design and implement healthcare information systems.
+9. **Renewable Energy Engineer**: $90,000 - $140,000 per year. As concern for climate change grows, renewable energy engineers will be needed to develop and implement sustainable energy solutions.
+10. **Quantum Computing Professional**: $120,000 - $200,000 per year. With the emergence of quantum computing, experts who can develop and apply quantum algorithms and software will be in high demand.
+11. **Digital Marketing Specialist**: $80,000 - $120,000 per year. As companies shift their focus to online marketing, digital marketing specialists will be needed to develop and implement effective online marketing strategies.
+12. **UX Designer**: $90,000 - $140,000 per year. With the increasing importance of user experience, UX designers will be in demand to create user-friendly and intuitive interfaces for software applications and websites.
+13. **Blockchain Developer**: $100,000 - $150,000 per year. As blockchain technology becomes more widespread, developers who can create and implement blockchain-based solutions will be in high demand.
+14. **Autonomous Vehicle Engineer**: $120,000 - $180,000 per year. With the development of self-driving cars, autonomous vehicle engineers will be needed to design and implement the complex systems required for autonomous vehicles.
+15. **Biotechnology Researcher**: $80,000 - $140,000 per year. Biotechnology researchers will be in demand to develop new treatments and therapies for various diseases and medical conditions.
+
+Keep in mind that salaries can vary based on factors like location, industry, experience, and company size. These figures are just rough estimates and may change over time.
+Score: 0.5936 | Result: FAIL
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating the accuracy of an AI model involves evaluating its performance on a test dataset, which is a subset of the overall data that the model hasn't seen during training. The accuracy is a measure of how well the model predicts the correct outcomes or classifications. Here are the general steps to calculate AI model accuracy:
+
+1. **Split the dataset**: Divide the available dataset into three parts: training dataset (for model training), validation dataset (for hyperparameter tuning), and test dataset (for final model evaluation).
+2. **Train the model**: Train the AI model on the training dataset.
+3. **Predict on test dataset**: Use the trained model to make predictions on the test dataset.
+4. **Compare predictions with actual values**: Compare the predicted values with the actual values in the test dataset.
+5. **Calculate accuracy metrics**: Calculate the accuracy metrics based on the comparison.
+
+Common accuracy metrics for classification problems are:
+
+* **Accuracy**: The proportion of correctly classified instances out of all instances in the test dataset.
+* **Precision**: The proportion of true positives (correctly predicted instances) out of all predicted positive instances.
+* **Recall**: The proportion of true positives out of all actual positive instances.
+* **F1-score**: The harmonic mean of precision and recall.
+* **Confusion matrix**: A table that summarizes the predictions against the actual outcomes.
+
+For regression problems, common accuracy metrics are:
+
+* **Mean Absolute Error (MAE)**: The average difference between predicted and actual values.
+* **Mean Squared Error (MSE)**: The average of the squared differences between predicted and actual values.
+* **Root Mean Squared Error (RMSE)**: The square root of the average of the squared differences between predicted and actual values.
+* **Coefficient of Determination (R-squared)**: A measure of how well the model explains the variance in the data.
+
+**How to calculate accuracy**:
+
+For classification problems:
+
+1. Count the number of correctly classified instances (true positives + true negatives).
+2. Divide the count by the total number of instances in the test dataset.
+
+Accuracy = (True Positives + True Negatives) / Total Instances
+
+For regression problems:
+
+1. Calculate the predicted values for the test dataset.
+2. Calculate the differences between predicted and actual values.
+3. Calculate the mean or root mean squared of these differences.
+
+MAE = (1/n) \* Σ|predicted - actual|
+MSE = (1/n) \* Σ(predicted - actual)^2
+RMSE = √((1/n) \* Σ(predicted - actual)^2)
+
+**Example**:
+
+Suppose we have a classification model that predicts whether a person has a disease or not. The test dataset has 100 instances, with 60 actual positives and 40 actual negatives. The model predicts 55 positives and 45 negatives.
+
+True Positives = 50 (correctly predicted positives)
+True Negatives = 40 (correctly predicted negatives)
+False Positives = 5 (incorrectly predicted positives)
+False Negatives = 10 (incorrectly predicted negatives)
+
+Accuracy = (True Positives + True Negatives) / Total Instances
+= (50 + 40) / 100
+= 0.9 or 90%
+
+In this example, the model has an accuracy of 90%. However, the precision, recall, and F1-score would provide a more detailed evaluation of the model's performance.
+Score: 0.8179 | Result: FAIL
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: The coldest place on Earth is generally considered to be Antarctica, specifically the region around the Russian Vostok Station. This station, located in the center of the Antarctic Plateau, has recorded the lowest temperatures on Earth.
+
+The lowest recorded temperature at Vostok Station was -128.6°F (-89.2°C) on July 21, 1983. This temperature reading is also the lowest recorded temperature on the entire planet.
+
+Other contenders for the coldest place on Earth include:
+
+1. Oymyakon, Russia: This village in Siberia is known for its extreme cold, with temperatures as low as -96.1°F (-71.2°C) recorded in 1924.
+2. Verkhoyansk, Russia: This town in northeastern Russia has recorded temperatures as low as -95°F (-71.1°C) in the winter.
+3. Snag, Yukon, Canada: This village in the Yukon Territory has recorded temperatures as low as -83.2°F (-64°C) in the winter.
+4. Eismitte, Greenland: This research station on the Greenland ice sheet has recorded temperatures as low as -85°F (-65°C) in the winter.
+
+However, it's worth noting that these temperatures are not as consistently cold as those recorded at Vostok Station in Antarctica, which is generally considered the coldest place on Earth due to its unique geography and climate.
+
+Here are some reasons why Vostok Station is so cold:
+
+1. **Elevation**: Vostok Station is located at an elevation of over 11,000 feet (3,500 meters) above sea level, which makes it more prone to cold temperatures.
+2. **Distance from the equator**: Antarctica is located at the South Pole, which means it receives very little sunlight during the winter months. This lack of solar radiation contributes to the extreme cold.
+3. **Cold air masses**: Antarctica is surrounded by cold air masses that are trapped by the polar vortex, a circulation pattern that keeps cold air over the continent.
+4. **Ice sheet**: The Antarctic ice sheet, which covers about 98% of the continent, reflects sunlight and keeps the air cold.
+
+Overall, the combination of these factors makes Vostok Station the coldest place on Earth.
+Score: 0.8428 | Result: FAIL
+------------------------------------------------------------
+Q9:which is the dry state of india?
+Actual: The driest state in India is Rajasthan. It is located in the northwest part of the country and is known for its arid desert climate, particularly the Thar Desert, which covers a significant portion of the state. Rajasthan receives very little rainfall, with an average annual rainfall of around 100 mm (3.9 in) in some areas, making it the driest state in India.
+Score: 0.4856 | Result: FAIL
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: In India, there are 8 Union Territories (UTs). Here is the list:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: Prior to 2020, there were 7 UTs, but the reorganization of Jammu and Kashmir led to the formation of two separate UTs, Jammu and Kashmir and Ladakh. Additionally, in 2020, Dadra and Nagar Haveli was merged with Daman and Diu to form a single UT, Dadra and Nagar Haveli and Daman and Diu.
+Score: 0.8612 | Result: PASS
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have any information about a person named Ranvir, including their profession. Could you provide more context or details about who Ranvir is? This will help me give you a more accurate answer.
+Score: Match | Result: PASS
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: Ranvir Singh is a British television presenter and journalist, but I couldn't find any information that confirms she is a published author. She is known for presenting various TV shows, including Good Morning Britain, and has written articles for publications, but I'm not aware of her writing any books. If you have any other questions, feel free to ask.
+Score: Match | Result: PASS
+------------------------------------------------------------
+
+    ==================== SUMMARY ====================
+    Total Questions : 12
+    Passed          : 5
+    Failed          : 7
+    Pass Percentage : 41.67%
+    =================================================
+    

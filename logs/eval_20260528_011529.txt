@@ -1,0 +1,227 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: Pass
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 = 4.
+Score: 0.9674 | Result: Pass
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are several continents with major pyramids or ancient structures. Here are a few examples:
+
+1. **Africa**: The continent is home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as other pyramids in Sudan, such as the Pyramids of Meroe.
+2. **Asia**: Asia has several ancient structures, including the Pyramids of Angkor Wat in Cambodia, the Borobudur temple in Indonesia, and the Terracotta Army in China.
+3. **North America**: The continent is home to the ancient Mayan and Aztec pyramids in Mexico, such as the Pyramid of the Sun and the Pyramid of the Moon at Teotihuacán.
+4. **South America**: South America has several ancient structures, including the Inca ruins of Machuigenic Picchu in Peru, the Nazca Lines in Peru, and the Moai statues on Easter Island (which is a special territory of Chile).
+5. **Europe**: While not as numerous as in other continents, Europe has several ancient structures, such as the Megalithic Temples of Malta, the Pyramid of Falicon in France, and the Roman ruins in Italy, Greece, and other countries.
+
+So, out of the 7 continents, 5 have major pyramids or ancient structures: Africa, Asia, North America, South America, and Europe.
+
+Note: The definition of a "pyramid" can be somewhat subjective, and some structures may be considered more as temples or monuments rather than traditional pyramids. However, the above list includes some of the most well-known and impressive ancient structures on each continent.
+Score: 0.7402 | Result: FAIL
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: Predicting the future of the IT sector in 2050 is challenging, but based on current trends, advancements, and technological breakthroughs, here are some potential developments that could shape the industry:
+
+1. **Artificial Intelligence (AI) and Machine Learning (ML)**: AI and ML will continue to play a vital role in the IT sector, with increased focus on areas like:
+	* Edge AI: AI-powered devices will become more prevalent, reducing latency and improving real-time processing.
+	* Explainable AI (XAI): As AI becomes more pervasive, there will be a growing need to understand how AI systems make decisions.
+	* Human-AI collaboration: AI will augment human capabilities, leading to more efficient and effective workflows.
+2. **Internet of Things (IoT) and Internet of Bodies (IoB)**: The IoT will continue to expand, with more devices becoming connected and generating vast amounts of data. The IoB will emerge as a new area of focus, with wearable and implantable devices monitoring and influencing human behavior.
+3. **Quantum Computing**: Quantum computing will start to gain traction, enabling breakthroughs in fields like:
+	* Cryptography: Quantum-resistant algorithms will become essential for secure data transmission.
+	* Optimization: Quantum computing will help solve complex optimization problems, leading to improvements in areas like logistics and finance.
+	* Materials Science: Quantum computing will aid in the discovery of new materials and properties.
+4. **Cloud Computing and Edge Computing**: Cloud computing will continue to dominate, with a growing emphasis on:
+	* Hybrid and multi-cloud strategies: Organizations will adopt a combination of public, private, and edge clouds to optimize performance and security.
+	* Edge computing: As data generation increases, edge computing will become crucial for real-time processing and reduced latency.
+5. **Cybersecurity**: As technology advances, cybersecurity threats will evolve, and the industry will focus on:
+	* Zero-trust architectures: Organizations will adopt a zero-trust approach, verifying the identity and permissions of users and devices.
+	* Autonomous security systems: AI-powered security systems will detect and respond to threats in real-time.
+6. **Virtual and Augmented Reality (VR/AR)**: VR/AR will become increasingly prevalent in industries like:
+	* Education and training: Immersive experiences will enhance learning and skill development.
+	* Entertainment: VR/AR will revolutionize the entertainment industry, with immersive experiences becoming the norm.
+	* Healthcare: VR/AR will be used for therapy, treatment, and patient care.
+7. **5G and 6G Networks**: The rollout of 5G networks will continue, and research on 6G networks will begin, focusing on:
+	* Terahertz frequency bands: 6G will explore the use of higher frequency bands, enabling faster data transfer rates.
+	* Holographic communications: 6G will aim to enable holographic communication, revolutionizing remote interaction.
+8. **Blockchain and Distributed Ledger Technology (DLT)**: Blockchain and DLT will continue to grow, with applications in:
+	* Supply chain management: Blockchain will increase transparency and efficiency in supply chains.
+	* Identity verification: Blockchain-based identity verification will become more widespread.
+9. **Autonomous Systems**: Autonomous systems, like self-driving cars and drones, will become more common, with a focus on:
+	* Safety and regulation: Governments and industries will establish guidelines and regulations for autonomous systems.
+	* Edge computing: Autonomous systems will rely on edge computing for real-time processing and decision-making.
+10. **Sustainable IT**: As concern for the environment grows, the IT sector will focus on:
+	* Energy-efficient technologies: Developments in areas like quantum computing and neuromorphic computing will lead to more energy-efficient systems.
+	* E-waste reduction: The industry will prioritize sustainable hardware design, recycling, and responsible electronics waste management.
+
+In 2050, the IT sector will likely be characterized by:
+
+* Increased automation and AI-driven decision-making
+* Pervasive use of IoT, IoB, and edge computing
+* Growing importance of quantum computing, blockchain, and cybersecurity
+* Widespread adoption of VR/AR, 5G, and 6G networks
+* Emphasis on sustainability, energy efficiency, and e-waste reduction
+
+Keep in mind that these predictions are based on current trends and available data. The actual future of the IT sector may differ due to unforeseen breakthroughs, challenges, or changes in societal and economic factors.
+Score: 0.7007 | Result: FAIL
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The question of who rules the world is complex and can be answered in various ways, depending on one's perspective. Here are a few possible interpretations:
+
+1. **Global Governance**: From a political perspective, the world is governed by a complex system of international institutions, governments, and non-state actors. The United Nations (UN) is the primary international organization that promotes peace, security, and cooperation among its 193 member states.
+2. **Economic Powerhouses**: In terms of economic influence, a small group of countries, often referred to as the G7 (United States, Canada, United Kingdom, France, Germany, Italy, and Japan), hold significant sway over global trade, finance, and economic policy.
+3. **Corporations and Financial Institutions**: Some argue that multinational corporations and financial institutions, such as banks and investment firms, wield considerable influence over the global economy and politics.
+4. **Technological Elites**: The rise of digital technologies has created a new class of influential individuals and companies, including tech giants like Google, Amazon, Facebook, and Apple, which shape the way we live, work, and interact with each other.
+5. **Ideological and Cultural Forces**: Ideas, values, and cultural norms can also be seen as ruling the world, with various philosophies, religions, and social movements shaping human behavior and societal norms.
+
+Ultimately, the concept of a single entity or group "ruling the world" is an oversimplification. The world is a complex, interconnected system, and power is distributed across various actors, institutions, and networks.
+
+What specific aspect of "ruling the world" would you like me to expand upon?
+Score: 0.7838 | Result: FAIL
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and projections, here are some high-paid jobs that are expected to be in demand in 2026:
+
+1. **Data Scientist**: $118,000 - $170,000 per year. Data scientists collect and analyze complex data to help organizations make informed decisions.
+2. **Cloud Architect**: $141,000 - $250,000 per year. Cloud architects design and build cloud computing systems for organizations.
+3. **DevOps Engineer**: $115,000 - $210,000 per year. DevOps engineers bridge the gap between software development and operations teams.
+4. **Artificial Intelligence/Machine Learning Engineer**: $125,000 - $200,000 per year. AI/ML engineers design and develop intelligent systems that can learn and adapt.
+5. **Cybersecurity Consultant**: $120,000 - $200,000 per year. Cybersecurity consultants help organizations protect against cyber threats.
+6. **Solutions Architect**: $140,000 - $250,000 per year. Solutions architects design and implement comprehensive solutions to meet organizations' needs.
+7. **Product Manager**: $120,000 - $200,000 per year. Product managers oversee the development and launch of products.
+8. **Full Stack Developer**: $100,000 - $180,000 per year. Full stack developers work on both front-end and back-end development of applications.
+9. **Blockchain Developer**: $100,000 - $200,000 per year. Blockchain developers design and develop blockchain-based systems.
+10. **Health Informatics Specialist**: $90,000 - $160,000 per year. Health informatics specialists design and implement healthcare information systems.
+11. **Quantum Computing Professional**: $150,000 - $250,000 per year. Quantum computing professionals work on developing quantum computing systems and applications.
+12. **Digital Transformation Consultant**: $120,000 - $200,000 per year. Digital transformation consultants help organizations transition to digital technologies.
+13. **IT Project Manager**: $110,000 - $190,000 per year. IT project managers oversee the planning and execution of IT projects.
+14. **Network Architect**: $120,000 - $200,000 per year. Network architects design and build computer networks.
+15. **Database Administrator**: $100,000 - $180,000 per year. Database administrators manage and maintain databases.
+
+Keep in mind that salaries can vary widely depending on factors like location, industry, experience, and company size. These figures are based on national averages and online sources, including:
+
+* Indeed
+* Glassdoor
+* LinkedIn
+* Robert Half
+* Gartner
+
+It's essential to research salaries specific to your location and industry to get a more accurate idea of the going rate for these jobs.
+Score: 0.618 | Result: FAIL
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating the accuracy of an AI model involves evaluating its performance on a dataset, typically using metrics such as precision, recall, F1 score, mean squared error, or R-squared. The choice of metric depends on the type of problem (e.g., classification, regression) and the goals of the project. Here are the general steps to calculate AI model accuracy:
+
+### 1. **Data Preparation**
+- **Split the Data**: Divide your dataset into training and testing sets (e.g., 80% for training and 20% for testing). The model is trained on the training set and evaluated on the testing set.
+- **Validation Set**: Sometimes, it's also beneficial to have a validation set, which is used to tune hyperparameters.
+
+### 2. **Model Training**
+- Train your AI model on the training dataset.
+
+### 3. **Model Evaluation**
+- **Make Predictions**: Use your trained model to make predictions on the testing dataset.
+- **Compare Predictions with Actual Values**: Compare the predicted outputs with the actual outputs in the testing dataset.
+
+### 4. **Calculation of Metrics**
+- **For Classification Problems**:
+  - **Accuracy**: The proportion of correct predictions out of total predictions made.
+    - Formula: `Accuracy = (TP + TN) / (TP + TN + FP + FN)`
+      - TP: True Positives
+      - TN: True Negatives
+      - FP: False Positives
+      - FN: False Negatives
+  - **Precision**: The ratio of true positives to the sum of true positives and false positives.
+    - Formula: `Precision = TP / (TP + FP)`
+  - **Recall (Sensitivity)**: The ratio of true positives to the sum of true positives and false negatives.
+    - Formula: `Recall = TP / (TP + FN)`
+  - **F1 Score**: The harmonic mean of precision and recall.
+    - Formula: `F1 Score = 2 * (Precision * Recall) / (Precision + Recall)`
+- **For Regression Problems**:
+  - **Mean Squared Error (MSE)**: The average squared difference between predicted and actual values.
+    - Formula: `MSE = 1/n * Σ(actual_value - predicted_value)^2`
+  - **Root Mean Squared Error (RMSE)**: The square root of MSE.
+    - Formula: `RMSE = √(MSE)`
+  - **Mean Absolute Error (MAE)**: The average absolute difference between predicted and actual values.
+    - Formula: `MAE = 1/n * Σ|actual_value - predicted_value|`
+  - **R-Squared (Coefficient of Determination)**: Measures how well the model explains the variability in the data.
+    - Formula: `R^2 = 1 - (SS_res / SS_tot)`
+      - SS_res: Sum of the squared residuals
+      - SS_tot: Total sum of squares
+
+### 5. **Interpretation**
+- Evaluate your model's performance based on the calculated metrics. For classification, accuracy and F1 score are key indicators. For regression, look at MSE, RMSE, MAE, and R-squared.
+
+### 6. **Iteration**
+- If the model's performance is not satisfactory, you may need to iterate by adjusting the model parameters, trying different models, or preprocessing the data differently.
+
+Remember, the choice of metric(s) to use depends on the specific requirements of your project, such as the cost of false positives versus false negatives in a classification problem.
+Score: 0.835 | Result: FAIL
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: **The Coldest Place on Earth:**
+
+The coldest place on Earth is generally considered to be Antarctica, specifically the region around the Russian Vostok Station. This station, located in the center of the Antarctic Plateau, has recorded the lowest temperatures on the planet.
+
+**Temperature Records:**
+
+On July 21, 1983, the temperature at Vostok Station dropped to a record low of **-128.6°F (-89.2°C)**, making it the coldest temperature ever recorded on Earth. This extreme cold is due to the station's location in the heart of the Antarctic continent, which is about 2 miles (3.2 kilometers) above sea level.
+
+**Other Notable Cold Places:**
+
+While Antarctica is the coldest continent, there are other places on Earth that are also extremely cold. Some examples include:
+
+* Oymyakon, Russia: This village in the Sakha Republic has recorded temperatures as low as **-96.1°F (-71.2°C)**.
+* Verkhoyansk, Russia: This town in the Sakha Republic has recorded temperatures as low as **-95°F (-71.1°C)**.
+* Snag, Yukon, Canada: This village has recorded temperatures as low as **-81.4°F (-63°C)**.
+
+**Why is Antarctica so Cold?**
+
+Antarctica is cold due to a combination of factors, including:
+
+* Its location at the South Pole, which means it receives very little sunlight during the winter months.
+* Its high elevation, which makes it colder than lower-lying areas.
+* The presence of a high-pressure system over the continent, which leads to a lack of moisture and cloud cover.
+* The cold ocean waters surrounding the continent, which help to keep the air cold.
+
+Overall, Antarctica is the coldest place on Earth due to its unique combination of geography, climate, and atmospheric conditions.
+Score: 0.8976 | Result: Pass
+------------------------------------------------------------
+Q9:which is the dry state of india?
+Actual: The driest state in India is Rajasthan. It is located in the northwestern part of the country and is known for its arid desert climate, with very little rainfall throughout the year. The state has an average annual rainfall of around 100 mm (3.9 in) in the desert regions, making it one of the driest places in the country.
+
+Rajasthan is home to the Thar Desert, also known as the Cholistan Desert, which covers a significant part of the state. The desert region is characterized by extreme heat, low humidity, and limited vegetation. The state's dry climate is due to its location in the rain shadow area of the Aravalli Range, which blocks the moisture-laden winds from the Arabian Sea and the Bay of Bengal.
+
+Other dry states in India include:
+
+* Gujarat: Located in the western part of the country, Gujarat has a dry climate with low rainfall, especially in the Kutch region.
+* Maharashtra: Parts of Maharashtra, such as the Vidarbha region, have a dry climate with low rainfall.
+* Andhra Pradesh: The Rayalaseema region in Andhra Pradesh has a dry climate with low rainfall.
+
+However, Rajasthan remains the driest state in India due to its unique geography and climate.
+Score: 0.5548 | Result: FAIL
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: In India, there are currently 8 Union Territories (UTs). Here is the list:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: Prior to 2020, there were 7 UTs, but the bifurcation of Jammu and Kashmir into two separate UTs (Jammu and Kashmir, and Ladakh) increased the total number to 8. Similarly, in 2020, Dadra and Nagar Haveli was merged with Daman and Diu to form a single UT, Dadra and Nagar Haveli and Daman and Diu.
+Score: 0.8338 | Result: FAIL
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have enough information to determine Ranvir's profession. Could you please provide more context or details about Ranvir? This will help me better understand your query and provide a more accurate response.
+Score: Match | Result: PASS
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: Ranvir Singh is a British journalist and television presenter, but I couldn't find any information that suggests she is a published author. However, there may be other individuals with the name Ranvir who are authors. Could you be referring to a specific person or book? If you provide more context, I'd be happy to try and help you further.
+Score: Match | Result: PASS
+------------------------------------------------------------

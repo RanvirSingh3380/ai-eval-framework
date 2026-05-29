@@ -1,0 +1,209 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: PASS
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 = 4.
+Score: 0.9674 | Result: PASS
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are at least 4 continents with major pyramids or ancient structures: 
+
+1. **Africa**: Home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as other pyramids in Sudan (e.g., Pyramids of Meroe) and Ethiopia.
+2. **Asia**: Features ancient structures like the Pyramids of China (e.g., the Great White Pyramid), the stepped pyramids of Indonesia (e.g., Borobudur), and the ancient cities of Mesopotamia (e.g., Ur, Babylon) in the Middle East.
+3. **North America**: Has several pyramid complexes, such as the pyramids of Teotihuacán in Mexico, the Mayan pyramids in Mexico and Guatemala (e.g., Chichen Itza, Tikal), and the earthen pyramids of the Mississippian culture in the United States (e.g., Cahokia Mounds).
+4. **South America**: Boasts an array of ancient structures, including the pyramids of Túcume in Peru, the Sun Pyramid at Twanaku in Bolivia, and the Moai statues on Easter Island (a special territory of Chile).
+
+Note that while these continents have the most well-known pyramids and ancient structures, there may be smaller, lesser-known sites on other continents as well.
+Score: 0.7338 | Result: FAIL
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: Predicting the future of the IT sector in 2050 is challenging, but based on current trends, here are some potential developments that could shape the industry:
+
+1. **Artificial Intelligence (AI) and Machine Learning (ML) omnipresence**: AI and ML will become even more pervasive, driving automation, decision-making, and innovation in various sectors, including healthcare, finance, and education.
+2. **Internet of Things (IoT) and Internet of Bodies (IoB)**: The number of connected devices will explode, with an estimated 100 billion devices by 2050. IoB will emerge, with implantable, wearable, and biosensor devices monitoring and influencing human health.
+3. **Quantum Computing**: Quantum computing will become more mainstream, enabling breakthroughs in fields like medicine, finance, and climate modeling. This will lead to significant advancements in areas like cryptography, optimization, and simulation.
+4. **Extended Reality (XR)**: Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) will revolutionize entertainment, education, and communication, changing the way we interact with information and each other.
+5. **5G and 6G**: Next-generation wireless networks will provide faster, more reliable, and ubiquitous connectivity, enabling widespread adoption of IoT, autonomous vehicles, and remote healthcare.
+6. **Cloud Computing and Edge Computing**: Cloud computing will continue to dominate, with edge computing emerging as a complementary technology to reduce latency and improve real-time processing.
+7. **Cybersecurity**: As more devices and systems become connected, cybersecurity threats will escalate. AI-powered security solutions will become essential to protect against increasingly sophisticated attacks.
+8. **Job Market Shifts**: Automation and AI might displace some jobs, but they will also create new ones, such as AI trainer, data curator, and cybersecurity specialist.
+9. **Digital Divide and Inclusion**: The IT sector will need to address the growing digital divide, ensuring that everyone has access to the benefits of technology, regardless of their geographical location, income, or ability.
+10. **Sustainable IT**: The industry will focus on reducing its environmental impact, using renewable energy sources, and developing sustainable technologies that minimize e-waste and carbon footprint.
+
+Some potential new technologies that might emerge by 2050 include:
+
+1. **Brain-Computer Interfaces (BCIs)**: Direct interfaces between the human brain and computers, enabling people to control devices with their thoughts.
+2. **Holographic Displays**: Three-dimensional projections that can be interacted with, revolutionizing entertainment, education, and communication.
+3. **Synthetic Biology**: The design and construction of new biological systems, such as microorganisms, to produce biofuels, clean up environmental pollutants, and improve human health.
+4. **Neuromorphic Computing**: Computers that mimic the human brain's structure and function, enabling more efficient and adaptive processing.
+5. **Space-Based Computing**: satellites and space-based platforms will become increasingly important for data processing, storage, and transmission.
+
+Keep in mind that these predictions are based on current trends and the pace of innovation. The actual future of the IT sector in 2050 may be shaped by factors that are currently unforeseen.
+Score: 0.6683 | Result: FAIL
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The question of who rules the world is complex and can be interpreted in different ways. Here are a few possible answers:
+
+1. **Global governance**: The United Nations (UN) is an international organization that aims to promote peace, security, and cooperation among its member states. The UN has a range of institutions, including the General Assembly, the Security Council, and the International Court of Justice, that play a role in global governance.
+2. **Economic power**: Some argue that the world is ruled by economic powers, such as multinational corporations, financial institutions, and wealthy individuals. These entities have significant influence over global trade, investment, and economic policy.
+3. **Nation-states**: From a traditional perspective, the world is ruled by nation-states, each with their own governments, laws, and institutions. Nation-states have sovereignty over their territories and are responsible for the welfare and security of their citizens.
+4. **International relations**: The world is also influenced by international relations, including diplomacy, alliances, and global institutions. Countries interact with each other through diplomatic channels, and international organizations like the European Union, NATO, and the G20 play a role in shaping global policy.
+5. **Invisible forces**: Some argue that the world is also influenced by invisible forces, such as ideas, culture, and technology. These forces can shape public opinion, influence policy, and drive social and economic change.
+
+Some of the most powerful entities in the world include:
+
+* **The United States**: As the world's largest economy and a global military power, the United States has significant influence over international relations and global policy.
+* **China**: China is the world's second-largest economy and has become a major player in global trade, investment, and geopolitics.
+* **The European Union**: The EU is a political and economic union of 27 member states that has a significant impact on global trade, regulation, and policy.
+* **Multinational corporations**: Companies like Apple, Google, Amazon, and Walmart have significant economic and cultural influence around the world.
+* **International financial institutions**: Institutions like the International Monetary Fund (IMF) and the World Bank play a crucial role in shaping global economic policy and providing financing to countries in need.
+
+Ultimately, the question of who rules the world is complex and multifaceted, and there is no single answer. Different entities and forces have varying degrees of influence, and the global landscape is constantly evolving.
+Score: 0.7098 | Result: FAIL
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and forecasts, here are some high-paying job opportunities that may be in demand in 2026:
+
+1. **Cloud Architects**: $141,000 - $250,000 per year. As more companies move to the cloud, the demand for experts who can design and build cloud computing systems is increasing.
+2. **Data Scientists**: $118,000 - $170,000 per year. With the growing amount of data being generated, companies need professionals who can collect, analyze, and interpret data to make informed decisions.
+3. **Artificial Intelligence/Machine Learning Engineers**: $125,000 - $200,000 per year. As AI and ML technologies continue to advance, the demand for experts who can develop and implement these systems is rising.
+4. **Cybersecurity Experts**: $120,000 - $200,000 per year. With the increasing threat of cyberattacks, companies need professionals who can protect their networks, systems, and data from unauthorized access.
+5. **DevOps Engineers**: $115,000 - $180,000 per year. As companies strive to improve their software development and deployment processes, the demand for DevOps experts who can bridge the gap between development and operations teams is growing.
+6. **Solutions Architects**: $130,000 - $220,000 per year. Solutions architects design and implement comprehensive solutions to meet business needs, and their expertise is in high demand.
+7. **Full Stack Developers**: $100,000 - $160,000 per year. With the growing demand for web and mobile applications, full stack developers who can handle both front-end and back-end development are in high demand.
+8. **Product Managers**: $120,000 - $180,000 per year. Product managers oversee the development and launch of products, and their expertise is essential for companies to stay competitive.
+9. **Blockchain Developers**: $100,000 - $150,000 per year. As blockchain technology continues to evolve, the demand for experts who can develop and implement blockchain-based solutions is increasing.
+10. **Quantum Computing Experts**: $150,000 - $250,000 per year. Quantum computing is a rapidly emerging field, and experts who can develop and implement quantum computing solutions are in high demand.
+
+Keep in mind that these salary ranges are estimates and can vary depending on factors like location, industry, experience, and company size. Additionally, while these jobs may be in high demand, they often require specialized skills and education, so it's essential to invest in ongoing learning and professional development to stay competitive.
+
+In terms of industries, some of the highest-paying job opportunities in 2026 may be found in:
+
+1. **Finance and Banking**: $100,000 - $250,000 per year
+2. **Healthcare and Biotech**: $80,000 - $200,000 per year
+3. **Technology and Software**: $80,000 - $250,000 per year
+4. **Energy and Utilities**: $80,000 - $200,000 per year
+5. **Consulting and Professional Services**: $80,000 - $200,000 per year
+
+These are just a few examples, and salaries can vary widely depending on the specific company, location, and industry.
+Score: 0.5587 | Result: FAIL
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating AI model accuracy involves evaluating the performance of a machine learning model on a given dataset. Here are the steps to calculate AI model accuracy:
+
+1. **Split the dataset**: Split the available dataset into two parts: training data (e.g., 80% of the data) and testing data (e.g., 20% of the data). The training data is used to train the model, and the testing data is used to evaluate its performance.
+2. **Make predictions**: Use the trained model to make predictions on the testing data.
+3. **Compare predictions to actual values**: Compare the predicted values to the actual values in the testing data.
+4. **Calculate accuracy metrics**: Calculate the accuracy metrics, such as:
+	* **Accuracy**: The proportion of correctly classified instances out of all instances in the testing data.
+	* **Precision**: The proportion of true positives (correctly classified instances) out of all positive predictions made by the model.
+	* **Recall**: The proportion of true positives out of all actual positive instances in the testing data.
+	* **F1-score**: The harmonic mean of precision and recall.
+	* **Mean Squared Error (MSE)**: The average squared difference between predicted and actual values.
+	* **Mean Absolute Error (MAE)**: The average absolute difference between predicted and actual values.
+5. **Evaluate the model**: Evaluate the model's performance based on the calculated accuracy metrics.
+
+**Formulas for calculating accuracy metrics:**
+
+1. Accuracy: `Accuracy = (TP + TN) / (TP + TN + FP + FN)`
+	* TP: True Positives (correctly classified instances)
+	* TN: True Negatives (correctly classified instances)
+	* FP: False Positives (incorrectly classified instances)
+	* FN: False Negatives (incorrectly classified instances)
+2. Precision: `Precision = TP / (TP + FP)`
+3. Recall: `Recall = TP / (TP + FN)`
+4. F1-score: `F1-score = 2 * (Precision * Recall) / (Precision + Recall)`
+5. MSE: `MSE = (1/n) * Σ(predicted_value - actual_value)^2`
+6. MAE: `MAE = (1/n) * Σ|predicted_value - actual_value|`
+
+**Example:**
+
+Suppose we have a binary classification model that predicts whether a customer will buy a product or not. We have a testing dataset with 100 instances, and the model makes the following predictions:
+
+| Actual | Predicted | Correct |
+| --- | --- | --- |
+| 0 | 0 | 1 |
+| 1 | 1 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| ... | ... | ... |
+
+From the data, we can calculate the accuracy metrics:
+
+* Accuracy: 80/100 = 0.8
+* Precision: 60/70 = 0.86
+* Recall: 60/80 = 0.75
+* F1-score: 2 * (0.86 * 0.75) / (0.86 + 0.75) = 0.8
+
+These metrics indicate that the model has an accuracy of 80%, precision of 86%, recall of 75%, and an F1-score of 0.8.
+
+**Interpretation:**
+
+The accuracy metrics provide insights into the model's performance. For example:
+
+* A high accuracy indicates that the model is good at making correct predictions.
+* A high precision indicates that the model is good at making positive predictions (e.g., predicting that a customer will buy a product).
+* A high recall indicates that the model is good at detecting all instances of a particular class (e.g., detecting all customers who will buy a product).
+* A high F1-score indicates that the model has a good balance between precision and recall.
+
+By evaluating the model's performance using these accuracy metrics, you can refine the model and improve its performance over time.
+Score: 0.8326 | Result: FAIL
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: The coldest place on Earth is generally considered to be Antarctica, specifically the region around the Russian Vostok Station. This station, located in the center of the Antarctic Plateau, holds the record for the lowest recorded temperature on Earth, reaching a staggering -128.6°F (-89.2°C) on July 21, 1983.
+
+However, if we're looking at a more specific location that is consistently cold throughout the year, the coldest place on Earth is often considered to be Oymyakon, Russia. Located in the Sakha Republic, Oymyakon is a small village that is known for its extremely cold temperatures, with an average January temperature of -50°F (-45.6°C) and a record low of -96.1°F (-71.2°C) in 1924.
+
+Other contenders for the coldest place on Earth include:
+
+* Verkhoyansk, Russia: This town in the Sakha Republic is known for its extreme temperature fluctuations, with temperatures ranging from -95°F (-71.1°C) in winter to 98°F (36.7°C) in summer.
+* Snag, Yukon, Canada: This village is located in the Yukon Territory and is known for its cold temperatures, with an average January temperature of -29°F (-33.9°C) and a record low of -60°F (-51.1°C).
+* Eismitte, Greenland: This location is situated in the center of Greenland's ice cap and is known for its extremely cold temperatures, with an average January temperature of -47°F (-43.9°C) and a record low of -64°F (-53.9°C).
+
+It's worth noting that these locations are not only cold but also remote, with limited access to amenities and infrastructure.
+Score: 0.823 | Result: FAIL
+------------------------------------------------------------
+Q9:which is the alcohal dry state of india?
+Actual: The alcohol dry state in India is Gujarat. Gujarat is the only state in India where the sale, manufacture, and consumption of alcohol are completely banned, except for a few exceptions, such as:
+
+1. People with a medical prescription can obtain a permit to purchase alcohol for medical purposes.
+2. Members of certain professions, such as defense personnel, can obtain a permit to consume alcohol.
+3. Foreigners can purchase alcohol at certain licensed premises, such as hotels and restaurants, with a valid passport and a permit.
+
+This ban on alcohol has been in place since 1958, when Gujarat was formed as a separate state. The ban was introduced by the then-Chief Minister, Morarji Desai, who was a strong advocate for prohibition. The ban is still in place today, and Gujarat remains the only dry state in India.
+Score: 0.791 | Result: FAIL
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: There are 8 Union Territories (UTs) in India:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: In 2020, the Government of India merged the Union Territory of Dadra and Nagar Haveli with the Union Territory of Daman and Diu to form a new Union Territory called Dadra and Nagar Haveli and Daman and Diu.
+Score: 0.8242 | Result: FAIL
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have information about a person named Ranvir. Could you please provide more context or details about who Ranvir is? That way, I can try to help you better.
+Score: Match | Result: PASS
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: Ranvir Singh is a British television presenter and journalist, best known for presenting ITV's Good Morning Britain and other various shows. While I couldn't find any information on her being a published author, she has been involved in numerous projects and has written articles for various publications.
+
+However, there might be other individuals named Ranvir who are authors. Could you provide more context or information about the Ranvir you're referring to? I'd be happy to help if I can.
+Score: Match | Result: PASS
+------------------------------------------------------------
+
+    ==================== SUMMARY ====================
+    Total Questions : 12
+    Passed          : 4
+    Failed          : 8
+    Pass Percentage : 33.33%
+    =================================================
+    

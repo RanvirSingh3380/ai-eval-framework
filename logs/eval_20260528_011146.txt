@@ -1,0 +1,172 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: Pass
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 = 4.
+Score: 0.9674 | Result: Pass
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are at least 5 continents with major pyramids or ancient structures:
+
+1. **Africa**: Home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as other ancient structures like the Pyramids of Sudan (e.g., Meroe and Nuri) and the ancient city of Great Zimbabwe.
+2. **Asia**: Features ancient structures like the Pyramids of China (e.g., the Great White Pyramid), the Borobudur temple complex in Indonesia, and the ancient city of Angkor Wat in Cambodia.
+3. **North America**: Has several ancient pyramid structures, including the Pyramid of the Sun and the Pyramid of the Moon at Teotihuacán in Mexico, and the Cahokia Mounds in the United States (the largest pre-Columbian earthen pyramid north of Mexico).
+4. **South America**: Boasts numerous ancient structures, such as the Pyramids of Túcume in Peru, the Pyramid of the Sun at Tucume, and the ancient city of Machu Picchu in Peru.
+5. **Europe**: While not as well-known for pyramids, Europe has ancient structures like the Pyramid of Falicon in France, the Pyramid of Hellín in Spain, and the ancient city of Pompeii in Italy, with its own pyramidal structures.
+
+Note that the definition of a "pyramid" can be somewhat flexible, and some of these structures might not be traditional pyramids in the sense of the Egyptian ones. Nevertheless, these continents all have significant ancient structures that are worth exploring.
+Score: 0.7399 | Result: FAIL
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: The IT sector is rapidly evolving, and predicting its future is exciting and challenging. Based on current trends, technological advancements, and research, here's a potential prediction for the IT sector in 2050:
+
+**Key Trends:**
+
+1. **Artificial Intelligence (AI) and Machine Learning (ML)**: AI and ML will become ubiquitous, driving automation, decision-making, and innovation across industries.
+2. **Internet of Things (IoT)**: The number of connected devices will explode, leading to a fully interconnected world, with IoT playing a crucial role in various sectors, including healthcare, transportation, and smart cities.
+3. **Quantum Computing**: Quantum computing will become more accessible, enabling breakthroughs in fields like cryptography, optimization, and simulations.
+4. **Extended Reality (XR)**: XR, encompassing Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR), will revolutionize entertainment, education, and communication.
+5. **5G and 6G Networks**: Next-generation wireless networks will provide faster, more reliable, and lower-latency connectivity, enabling new use cases like widespread adoption of IoT, autonomous vehicles, and remote healthcare.
+6. **Cloud and Edge Computing**: Cloud computing will continue to grow, with edge computing playing a vital role in reducing latency, improving real-time processing, and enhancing security.
+7. **Cybersecurity**: As technology advances, cybersecurity threats will escalate, making it essential to develop more sophisticated security measures to protect against increasingly complex attacks.
+8. **Sustainable IT**: The IT sector will focus on reducing its environmental impact, with a shift towards sustainable, energy-efficient, and eco-friendly technologies.
+
+**Potential Developments:**
+
+1. **Human-Machine Interfaces**: Direct neural interfaces, brain-computer interfaces, and other innovative human-machine interfaces will become more prevalent, changing the way we interact with technology.
+2. **Autonomous Systems**: Autonomous vehicles, drones, and robots will become commonplace, transforming transportation, logistics, and various industries.
+3. **Virtual and Remote Work**: Remote work will become the norm, with virtual and augmented reality platforms enabling seamless collaboration and communication.
+4. **Personalized Medicine**: AI-driven personalized medicine will revolutionize healthcare, enabling tailored treatments, predictive analytics, and targeted therapies.
+5. **Smart Cities and Infrastructure**: Cities will become increasingly smart, with integrated systems for energy management, transportation, waste management, and public safety.
+6. **Space Technology**: Space exploration and colonization will accelerate, with IT playing a vital role in enabling communication, navigation, and sustainability in space.
+7. **Biotechnology and Bioinformatics**: The intersection of IT and biotechnology will lead to breakthroughs in genomics, gene editing, and regenerative medicine.
+8. **Education and Training**: AI-powered adaptive learning systems will transform education, providing personalized, immersive, and effective learning experiences.
+
+**Challenges and Opportunities:**
+
+1. **Job Displacement**: Automation and AI may displace certain jobs, requiring workers to develop new skills and adapt to changing job markets.
+2. **Digital Divide**: The gap between those with access to advanced technologies and those without will need to be addressed to ensure equitable opportunities and social cohesion.
+3. **Data Governance**: The increasing amount of data generated will require robust governance frameworks to ensure privacy, security, and responsible use.
+4. **Energy Consumption**: The IT sector's growing energy consumption will need to be mitigated through sustainable practices, renewable energy sources, and energy-efficient technologies.
+5. **Innovation and Entrepreneurship**: The IT sector will continue to drive innovation and entrepreneurship, creating new opportunities for startups, small businesses, and social enterprises.
+
+In 2050, the IT sector is likely to be characterized by:
+
+* Increased automation and AI adoption
+* Widespread use of IoT, XR, and quantum computing
+* Growing importance of cybersecurity, sustainability, and data governance
+* Emerging trends like human-machine interfaces, autonomous systems, and space technology
+* Continued innovation and entrepreneurship, driving social and economic progress
+
+Keep in mind that this is a hypothetical prediction, and the actual future may differ based on various factors, including technological breakthroughs, societal choices, and unforeseen events.
+Score: 0.5559 | Result: FAIL
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The question of who rules the world is complex and can be answered in various ways, depending on one's perspective. Here are some possible interpretations:
+
+1. **Politically:** The world is comprised of nearly 200 sovereign nations, each with its own government and leaders. These governments and leaders are responsible for making decisions that affect their respective countries and, in some cases, the global community. Some of the most powerful nations, like the United States, China, Russia, and European countries, have significant influence on global politics and economy.
+2. **Economically:** Large corporations, financial institutions, and wealthy individuals play a substantial role in shaping the global economy. Multinational companies, like Apple, Google, Amazon, and Facebook, have significant influence over various sectors, such as technology, finance, and trade.
+3. **Environmentally:** Some might argue that the natural world, including climate patterns, ocean currents, and ecosystems, rules the world. Human activities, such as deforestation, pollution, and climate change, have a significant impact on the planet, but the natural world ultimately dictates the limits of human existence.
+4. **Technologically:** With the rise of artificial intelligence, automation, and the internet, some might argue that technology has become a dominant force in shaping the world. Algorithms, data, and digital platforms have transformed the way we communicate, work, and live, and will likely continue to do so in the future.
+5. **Philosophically:** From a more abstract perspective, one might argue that ideas, values, and beliefs rule the world. The collective human experience, including culture, history, and social norms, shapes our individual and collective behaviors, influencing the course of human events.
+
+In conclusion, the answer to "who rules the world?" is multifaceted and depends on the context in which the question is asked. It's a complex interplay of various factors, including politics, economy, environment, technology, and human values.
+Score: 0.8113 | Result: FAIL
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and projected industry growth, here are some high-paid jobs that may be in demand in 2026:
+
+1. **Cloud Architect**: $141,000 - $250,000 per year. With the increasing adoption of cloud technology, cloud architects will be in high demand to design and build cloud computing systems.
+2. **Data Scientist**: $118,000 - $170,000 per year. As data becomes increasingly important for businesses, data scientists will be needed to analyze and interpret complex data sets.
+3. **DevOps Engineer**: $115,000 - $160,000 per year. DevOps engineers will be in demand to bridge the gap between development and operations teams, ensuring smooth and efficient software development and deployment.
+4. **Artificial Intelligence/Machine Learning Engineer**: $125,000 - $200,000 per year. As AI and ML continue to transform industries, engineers with expertise in these areas will be highly sought after.
+5. **Cybersecurity Consultant**: $120,000 - $200,000 per year. With the rise of cyber threats, cybersecurity consultants will be needed to help organizations protect themselves against attacks and data breaches.
+6. **Full Stack Developer**: $100,000 - $150,000 per year. Full stack developers will be in demand to build and maintain complex web applications and systems.
+7. **Product Manager**: $115,000 - $160,000 per year. Product managers will be needed to oversee the development and launch of new products, ensuring they meet customer needs and are profitable.
+8. **Solutions Architect**: $125,000 - $200,000 per year. Solutions architects will be in demand to design and implement comprehensive solutions for organizations, integrating multiple technologies and systems.
+9. **Health Informatics Specialist**: $90,000 - $140,000 per year. With the increasing use of technology in healthcare, health informatics specialists will be needed to design and implement healthcare information systems.
+10. **Quantum Computing Specialist**: $120,000 - $180,000 per year. As quantum computing becomes more mainstream, specialists with expertise in this area will be in high demand to develop and apply quantum computing solutions.
+11. **Virtual Reality/Augmented Reality Developer**: $100,000 - $150,000 per year. VR/AR developers will be needed to create immersive experiences for entertainment, education, and other industries.
+12. **BlockChain Developer**: $100,000 - $150,000 per year. With the growing adoption of blockchain technology, developers with expertise in this area will be in demand to build and implement blockchain-based systems.
+13. **Network Architect**: $110,000 - $160,000 per year. Network architects will be needed to design and build computer networks, ensuring they are secure, efficient, and scalable.
+14. **Database Administrator**: $90,000 - $140,000 per year. Database administrators will be in demand to design, implement, and maintain databases, ensuring data is secure and accessible.
+15. **IT Manager**: $120,000 - $180,000 per year. IT managers will be needed to oversee IT operations, ensuring systems are running smoothly and efficiently, and that teams are working effectively.
+
+Keep in mind that salaries can vary depending on location, industry, experience, and other factors. These figures are meant to serve as a rough guide and may not reflect actual salaries in 2026.
+Score: 0.5895 | Result: FAIL
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating AI model accuracy is a crucial step in evaluating the performance of a machine learning model. Here are the common methods to calculate AI model accuracy:
+
+1. **Confusion Matrix**: A confusion matrix is a table used to evaluate the performance of a classification model. It provides a summary of correct and incorrect predictions against the actual outcomes.
+	* True Positives (TP): Correctly predicted positive instances
+	* False Positives (FP): Incorrectly predicted positive instances
+	* True Negatives (TN): Correctly predicted negative instances
+	* False Negatives (FN): Incorrectly predicted negative instances
+2. **Accuracy Metric**: The accuracy metric is calculated using the confusion matrix.
+	* **Accuracy**: (TP + TN) / (TP + TN + FP + FN)
+	* **Precision**: TP / (TP + FP)
+	* **Recall**: TP / (TP + FN)
+	* **F1-Score**: 2 \* (Precision \* Recall) / (Precision + Recall)
+3. **Mean Squared Error (MSE)**: For regression models, MSE is used to calculate the average squared difference between predicted and actual values.
+	* MSE = Σ(actual - predicted)^2 / n
+4. **Mean Absolute Error (MAE)**: For regression models, MAE is used to calculate the average absolute difference between predicted and actual values.
+	* MAE = Σ|actual - predicted| / n
+5. **R-Squared (R2)**: For regression models, R2 measures the proportion of variance in the dependent variable that is predictable from the independent variable(s).
+	* R2 = 1 - (SSE / SST), where SSE is the sum of squared errors and SST is the total sum of squares
+6. **Cross-Validation**: Cross-validation is a technique used to evaluate a model's performance on unseen data by splitting the available data into training and testing sets.
+7. **ROC-AUC**: The Receiver Operating Characteristic-Area Under the Curve (ROC-AUC) is used to evaluate the performance of a binary classification model.
+8. **Kappa Statistic**: The Kappa statistic is used to evaluate the performance of a classification model by comparing the observed accuracy with the expected accuracy.
+
+These metrics provide a comprehensive understanding of an AI model's performance, and by using them, you can:
+
+* Evaluate the model's ability to make accurate predictions
+* Identify biases in the model
+* Compare the performance of different models
+* Fine-tune the model to improve its performance
+
+Keep in mind that the choice of metric depends on the specific problem, data, and model used.
+Score: 0.7644 | Result: FAIL
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: The coldest place on Earth is generally considered to be Antarctica, specifically the region known as the Antarctic Plateau. However, the coldest permanently inhabited place on Earth is Oymyakon, Russia, which is located in the Sakha Republic.
+
+Some of the coldest places on Earth include:
+
+1. **Oymyakon, Russia**: This village has a subarctic climate and is known for being the coldest permanently inhabited place on Earth. The lowest recorded temperature was -71.2°C (-96°F) on January 26, 1924.
+2. **Verkhoyansk, Russia**: This town is located in the Sakha Republic, Russia, and has a subarctic climate. The lowest recorded temperature was -67.8°C (-90°F) on February 5, 1891.
+3. **Snag, Yukon, Canada**: This village is located in the Yukon Territory, Canada, and has a subarctic climate. The lowest recorded temperature was -60°C (-76°F) on February 3, 1947.
+4. **Eismitte, Greenland**: This research station is located on the Greenland ice sheet and has a polar climate. The lowest recorded temperature was -64.4°C (-84°F) on January 21, 1954.
+5. **Vostok Station, Antarctica**: This Russian research station is located on the Antarctic Plateau and has a polar climate. The lowest recorded temperature was -89.2°C (-129°F) on July 21, 1983, which is the lowest recorded temperature on Earth.
+
+It's worth noting that these temperatures are extreme and not typical of the average temperatures in these locations. Additionally, there may be other places on Earth that have recorded lower temperatures, but these are some of the most well-known and widely recognized examples of extremely cold places.
+Score: 0.8254 | Result: FAIL
+------------------------------------------------------------
+Q9:which is the dry state of india?
+Actual: Rajasthan is the driest state in India.
+Score: 0.4451 | Result: FAIL
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: In India, there are 8 Union Territories (UTs). Here they are:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: Prior to 2020, there were 7 UTs, but the reorganization of Jammu and Kashmir led to the creation of two separate UTs: Jammu and Kashmir, and Ladakh. Similarly, Dadra and Nagar Haveli and Daman and Diu were merged to form a single UT in 2020.
+Score: 0.8569 | Result: Pass
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have any information about a person named Ranvir. Could you please provide more context or details about who Ranvir is? That way, I can try to help you better.
+Score: No Match | Result: FAIL
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: I don't have enough information to determine if Ranvir is an author. Could you provide more context or details about Ranvir? This would help me better understand your question and provide a more accurate response.
+Score: No Match | Result: FAIL
+------------------------------------------------------------

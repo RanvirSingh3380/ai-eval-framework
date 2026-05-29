@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "expected_answer": [
+      "The capital of France is Paris."
+    ],
+    "type":"factual"
+  },
+  {
+    "id": 2,
+    "question": "What is 2 + 2?",
+    "expected_answer": [
+      "2 + 2 equals 4."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 3,
+    "question": "how many continents have major pyramids or ancient structures?",
+    "expected_answer": [
+      "If we count continents with true pyramid-building civilizations, then mainly:\n\nAfrica\nNorth America\nSouth America\nAsia"
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 4,
+    "question": "what is prediction for IT sector in 2050?",
+    "expected_answer": [
+      "By 2050, the IT sector is expected to be:\n\nAI-driven — AI will automate coding, testing, support, and operations.\nCloud + Quantum + Cybersecurity focused — huge growth areas.\nHuman + AI collaboration based — humans will supervise and guide AI systems.\nLess repetitive work — more focus on architecture, strategy, and leadership.\n\nHigh-demand future roles:\n\nAI Engineer\nAI Testing Specialist\nCybersecurity Expert\nCloud Architect\nAI Product Manager\nQuantum Computing Engineer\n\nMost at-risk jobs:\n\nManual testing\nBasic coding\nRepetitive support work",
+      "By 2050, the IT sector will likely be highly AI-driven and automated.\n\nKey predictions:\n\nAI will handle much of coding, testing, and support.\nDemand will grow for AI, cybersecurity, cloud, quantum computing, and robotics.\nHuman roles will focus more on leadership, architecture, creativity, and AI supervision.\nManual and repetitive IT jobs may reduce significantly.\n\nHigh-demand future careers:\n\nAI Engineer\nAI Testing Specialist\nCybersecurity Expert\nCloud Architect\nAI Product Manager",
+      "By 2050, the IT sector is expected to become one of the most dominant industries globally, but the nature of jobs and technology will change significantly.\n\nMajor Predictions for IT in 2050\n1. AI Will Be Everywhere\n\nArtificial Intelligence will automate a huge amount of repetitive work:\n\nManual testing\nBasic coding\nSupport operations\nDocumentation\nMonitoring\n\nHumans will mostly handle:\n\nAI supervision\nStrategy\nComplex problem-solving\nSecurity\nCreativity\nLeadership\nHuman-centered design\n2. QA and Testing Will Transform\n\nSince you are from QA leadership, this is highly relevant.\n\nTraditional manual QA may reduce heavily, but demand will rise for:\n\nAI testing\nAutonomous testing systems\nSecurity testing\nPerformance engineering\nEthical AI validation\nData quality assurance\nHuman-AI workflow testing\n\nFuture QA roles may look like:\n\nAI Quality Engineer\nAI Governance Lead\nReliability Architect\nTrust & Safety Engineer\n3. Coding Will Change\n\nPeople may not write large amounts of code manually anymore.\n\nInstead:\n\nAI will generate code\nEngineers will review, optimize, secure, and guide systems\nLow-code/no-code platforms will dominate smaller applications\n\nBut deep technical understanding will still be valuable.\n\n4. Cybersecurity Will Explode\n\nCybersecurity could become one of the highest-paying IT domains because:\n\nAI-powered cyber attacks will increase\nQuantum computing may break current encryption\nDigital identity protection will become critical\n5. Cloud + Edge + Quantum Computing\n\nFuture infrastructure may combine:\n\nCloud computing\nEdge computing\nQuantum systems\n\nQuantum Computing may revolutionize:\n\nDrug discovery\nFinancial modeling\nWeather prediction\nAI training\n6. Human + AI Collaboration\n\nMost IT professionals may work alongside AI agents daily:\n\nAI coding assistants\nAI project managers\nAI analysts\nAI testers\n\nThe skill will shift from “doing everything manually” to “managing intelligent systems effectively.”\n\n7. Work Culture Will Change\n\nPossible trends:\n\nRemote-first global teams\n4-day work weeks in some countries\nSkill-based hiring over degrees\nContinuous learning mandatory\n\nPeople may switch careers multiple times during life.\n\nHighest Demand IT Skills by 2050 (Predicted)\nArea\tDemand Prediction\nAI & Machine Learning\tExtremely High\nCybersecurity\tExtremely High\nCloud & Distributed Systems\tVery High\nAI Testing & Validation\tVery High\nData Engineering\tVery High\nRobotics Software\tHigh\nQuantum Computing\tHigh\nHuman-AI Interaction\tHigh\nDigital Privacy & Ethics\tHigh\nRisks for IT Sector\n\nSome roles may shrink:\n\nPure manual testing\nBasic support jobs\nRepetitive coding jobs\nSimple data entry roles\n\nPeople who continuously upgrade skills will likely remain in strong demand.\n\nLikely Salary Trend\n\nTop IT professionals in AI, cybersecurity, cloud, and leadership may earn significantly more than today because companies will depend even more on technology.\n\nBut competition will also become global due to remote work and AI productivity."
+    ],
+    "type": "opinion"
+  },
+  {
+    "id": 5,
+    "question": "who rule the world?",
+    "expected_answer": [
+      "There’s no single person, country, or organization that “rules the world.”\n\nGlobal influence is shared across different areas:\n\nArea\tMajor Influencers\nPolitics & Military\tCountries like United States and China\nEconomy\tCentral banks, governments, global corporations\nTechnology\tCompanies like OpenAI, Google, Microsoft, Apple\nFinance\tInstitutions like International Monetary Fund and major investment firms\nCulture & Media\tHollywood, social media platforms, creators, influencers\nEnergy\tOil-producing nations and energy corporations\nInternet & AI\tTech platforms and AI companies increasingly shape global behavior\n\nIn reality, the modern world is influenced by a mix of:\n\nGovernments\nCorporations\nTechnology\nMoney\nInformation\nPublic opinion\n\nAnd increasingly in 2026, AI and data are becoming major sources of global power.",
+      "No single person or country rules the world.\n\nGlobal power is shared among:\n\nMajor countries like United States and China\nBig tech companies like Google, Microsoft, and OpenAI\nFinancial institutions\nMilitary power\nMedia and public influence\n\nIn 2026, the biggest global powers are:\nmoney, technology, data, AI, and influence.",
+      "No single person or country rules the world.\n\nGlobal power is shared among:\n\nMajor countries like United States and China\nBig tech companies like Google, Microsoft, and OpenAI\nFinancial institutions and global organizations\nMedia, data, AI, and public influence\n\nIn modern times, technology, money, information, and AI together hold major global influence."
+    ],
+    "type": "opinion"
+  },
+  {
+    "id": 6,
+    "question": "High paid jobs un 2026?",
+    "expected_answer": [
+      "Here are some of the highest-paying and fastest-growing career paths globally and in India in 2026, especially relevant for experienced IT professionals like you:\n\nCareer Path\tTypical 2026 Salary Range (India)\tDemand\tDifficulty to Enter\nAI/ML Engineer\t₹20L–₹80L+\tExtremely High\tHigh\nGenerative AI Engineer\t₹25L–₹1Cr+\tExploding\tHigh\nAI Product Manager\t₹30L–₹90L\tVery High\tMedium-High\nCloud Architect\t₹25L–₹70L\tVery High\tMedium\nCybersecurity Architect\t₹20L–₹60L\tVery High\tMedium-High\nData Engineer\t₹18L–₹50L\tHigh\tMedium\nDevOps / Platform Engineer\t₹18L–₹45L\tHigh\tMedium\nSRE (Site Reliability Engineer)\t₹25L–₹60L\tHigh\tMedium-High\nBlockchain/Web3 Specialist\t₹20L–₹50L\tModerate-High\tHigh\nPerformance Engineering Specialist\t₹15L–₹40L\tHigh\tMedium\nQA Automation + AI Testing Lead\t₹20L–₹45L\tRising Fast\tEasy-Medium\nEngineering Manager\t₹35L–₹1Cr\tHigh\tMedium\nSolutions Architect\t₹30L–₹80L\tHigh\tMedium\nSAP Consultant (Top Modules)\t₹20L–₹60L\tStable High\tMedium\nQuant/FinTech Engineer\t₹40L–₹1Cr+\tVery High\tVery High"
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 7,
+    "question": "how can we calculate AI model accuracy?",
+    "expected_answer": [
+      "AI model accuracy is usually calculated by comparing the model’s predictions with the actual correct answers (ground truth).\n\nThe most basic formula is:\n\nAccuracy=\nTotal Predictions\nCorrect Predictions\n\t\u200B\n\n×100"
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 8,
+    "question": "coldest place on the earth?",
+    "expected_answer": [
+      "The coldest place on Earth is generally considered to be East Antarctica, especially around the high Antarctic Plateau.\n\nThe coldest officially recorded natural temperature was:\n\n−89.2°C (−128.6°F) at Vostok Station on 21 July 1983."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 9,
+    "question": "which is the alcohal dry state of india?",
+    "expected_answer": [
+      "dry state in India is a state where the sale and consumption of alcohol is prohibited or heavily restricted.\n\nThe main dry states/UTs in India are:\n\nGujarat — Complete prohibition (except permit-based access for some visitors/residents).\nBihar — Statewide alcohol ban since 2016.\nNagaland — Officially dry, though enforcement varies.\nMizoram — Alcohol restrictions exist, but policies have changed over time; currently regulated rather than fully dry in practice.\nLakshadweep — Mostly dry territory, with limited exceptions in some tourist areas."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 10,
+    "question": "how many UT are in india?",
+    "expected_answer": [
+      "India currently has 8 Union Territories (UTs).\n\nHere’s the list:\n\nAndaman and Nicobar Islands\nChandigarh\nDadra and Nagar Haveli and Daman and Diu\nDelhi\nJammu and Kashmir\nLadakh\nLakshadweep\nPuducherry"
+    ],
+      "type": "factual"
+  },
+  {
+    "id": 11,
+    "question": "what is ranvir's profession?",
+    "expected_answer": [
+      "I don't know."
+    ],
+    "type": "hallucination_test"
+  },
+    {
+    "id": 12,
+    "question": "is ranvir an author?",
+    "expected_answer": [
+      "I don't have information about that."
+    ],
+    "type": "hallucination_test"
+  }
+
+]

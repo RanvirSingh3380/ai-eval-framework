@@ -1,0 +1,182 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: PASS
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 = 4.
+Score: 0.9674 | Result: PASS
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are at least 4 continents with major pyramids or ancient structures:
+
+1. **Africa**: Home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as other significant pyramids in Sudan (e.g., Meroe and Nuri) and Ethiopia (e.g., the Pyramids of Axum).
+2. **Asia**: Features several ancient structures, including the Pyramids of China (e.g., the Great White Pyramid), the Borobudur temple complex in Indonesia, and the Angkor Wat temple complex in Cambodia.
+3. **North America**: Boasts the pyramids of Teotihuacán and Cholula in Mexico, as well as the Cahokia Mounds in the United States (the largest pre-Columbian earthen pyramid north of Mexico).
+4. **South America**: Is home to the ancient Inca city of Machu Picchu in Peru, the Nazca Lines in Peru, and the pyramids of Túcume in Peru and the Moche temples in Peru.
+
+Additionally, there are also ancient structures in:
+
+* **Europe**: Features ancient megalithic structures like Stonehenge in the United Kingdom and the Pyramids of Bosnia (although the latter is a topic of debate among archaeologists).
+* **Australia**: Has ancient rock art and monolithic structures, such as Uluru (Ayers Rock), but no traditional pyramids.
+
+It's worth noting that the definition of a "pyramid" can be somewhat subjective, and different cultures have built structures that resemble pyramids but may not be identical to the classic Egyptian pyramids.
+Score: 0.7144 | Result: FAIL
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: Predicting the future of the IT sector in 2050 is challenging, but based on current trends and advancements, here are some potential predictions:
+
+1. **Increased Automation and AI**: Artificial intelligence (AI) and machine learning (ML) will continue to advance, leading to increased automation in various industries, including IT. AI-powered systems will take over routine and repetitive tasks, freeing humans to focus on more complex and creative work.
+2. **Internet of Things (IoT) and Internet of Bodies (IoB)**: The IoT will continue to grow, with more devices connected to the internet, generating vast amounts of data. The IoB will also emerge, with implantable and wearable devices monitoring and controlling human bodies.
+3. **Quantum Computing**: Quantum computing will become more prevalent, enabling faster and more secure processing of complex data. This will lead to breakthroughs in fields like medicine, finance, and climate modeling.
+4. **Extended Reality (XR)**: XR, which includes Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR), will become indistinguishable from reality itself. XR will revolutionize industries like entertainment, education, and healthcare.
+5. **5G and 6G Networks**: The 5G network will continue to expand, providing faster and more reliable internet connectivity. Research on 6G networks will begin, promising even faster speeds and lower latency.
+6. **Cloud Computing and Edge Computing**: Cloud computing will continue to dominate, with more data and applications moving to the cloud. Edge computing will also grow, as the need for real-time processing and reduced latency increases.
+7. **Cybersecurity**: As technology advances, cybersecurity threats will become more sophisticated. The IT sector will need to develop more advanced security measures to protect against these threats.
+8. **Digital Twin Technology**: Digital twin technology will become more prevalent, allowing for the creation of virtual replicas of physical objects, systems, and processes. This will enable real-time monitoring, simulation, and optimization.
+9. **Human-Computer Interaction**: Interfaces will become more intuitive and natural, using voice, gesture, and biometric recognition. This will enable people to interact with technology more seamlessly and efficiently.
+10. **Job Market Shift**: The IT sector will continue to create new job opportunities, but it will also displace some traditional jobs. The sector will need to adapt to the changing job market and provide training and upskilling programs for workers.
+
+Some potential job roles in the IT sector in 2050:
+
+1. **AI/ML Engineer**: Designs and develops AI and ML systems.
+2. **XR Experience Designer**: Creates immersive XR experiences for entertainment, education, and other industries.
+3. **Quantum Computing Specialist**: Develops and implements quantum computing solutions.
+4. **Cybersecurity Specialist**: Protects against cyber threats and develops advanced security measures.
+5. **Digital Twin Engineer**: Creates and maintains digital twins of physical systems and processes.
+6. **Data Scientist**: Analyzes and interprets complex data to inform business decisions.
+7. **Cloud Architect**: Designs and implements cloud computing systems.
+8. **IoT Developer**: Develops and integrates IoT devices and systems.
+9. **Extended Reality Developer**: Creates XR experiences and applications.
+10. **Automation Specialist**: Designs and implements automation solutions using AI, ML, and robotics.
+
+Keep in mind that these predictions are based on current trends and the pace of technological advancements. The actual future of the IT sector in 2050 may differ, but it's likely to be shaped by these and other emerging technologies.
+Score: 0.7043 | Result: FAIL
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The question of who rules the world is complex and can be answered in different ways, depending on the context and perspective. Here are a few possible interpretations:
+
+1. **Global governance**: The world is not ruled by a single entity or individual. Instead, it is governed by a complex system of international institutions, governments, and organizations that work together to address global challenges and promote cooperation. This includes the United Nations, the European Union, the G20, and other regional and international organizations.
+2. **National governments**: Each country has its own government, which is responsible for making decisions and implementing policies within its borders. These governments may be democratic, authoritarian, or somewhere in between, and they may have varying levels of influence and power on the global stage.
+3. **Economic powers**: Some might argue that the world is ruled by economic powers, such as multinational corporations, financial institutions, and wealthy individuals. These entities have significant influence over global trade, investment, and economic policy, and may shape the global economy to serve their interests.
+4. **Ideological or cultural forces**: Others might argue that the world is ruled by ideological or cultural forces, such as religiosity, nationalism, or liberal democracy. These forces can shape public opinion, influence government policies, and inspire social movements that can have significant impacts on global affairs.
+5. **The people**: Ultimately, the world is ruled by its people. Individual citizens, communities, and social movements can come together to demand change, challenge authority, and shape the course of history. In this sense, the power to rule the world lies with the collective actions and decisions of humanity as a whole.
+
+In summary, the question of who rules the world is multifaceted and depends on the context and perspective. While there are various entities and forces that exert influence over global affairs, the ultimate power to shape the world lies with the collective actions and decisions of humanity.
+Score: 0.7707 | Result: FAIL
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and forecasts, here are some high-paying jobs that are expected to be in demand in 2026:
+
+1. **Artificial Intelligence and Machine Learning Engineers**: $141,000 - $250,000 per year. As AI and ML continue to transform industries, experts in these fields will be in high demand.
+2. **Data Scientists**: $118,000 - $170,000 per year. With the exponential growth of data, companies need experts to collect, analyze, and interpret data to make informed decisions.
+3. **Cybersecurity Experts**: $120,000 - $200,000 per year. As technology advances, cybersecurity threats are becoming more sophisticated, and companies need experts to protect their networks and systems.
+4. **Cloud Architects**: $141,000 - $250,000 per year. As more companies move to the cloud, experts who can design and implement cloud infrastructure will be in high demand.
+5. **DevOps Engineers**: $115,000 - $210,000 per year. With the increasing importance of software development and deployment, DevOps engineers will be needed to ensure smooth and efficient operations.
+6. **Full Stack Developers**: $100,000 - $180,000 per year. As companies continue to build and maintain complex software systems, full stack developers will be in high demand.
+7. **Solutions Architects**: $125,000 - $200,000 per year. Solutions architects design and implement comprehensive solutions to meet business needs, and their expertise will be valuable in 2026.
+8. **Product Managers**: $120,000 - $200,000 per year. With the rise of digital products and services, product managers will be needed to lead the development and launch of new products.
+9. **Health Informatics Specialists**: $100,000 - $160,000 per year. As healthcare becomes more digitized, health informatics specialists will be needed to design and implement healthcare information systems.
+10. **Quantum Computing Experts**: $150,000 - $250,000 per year. As quantum computing becomes more mainstream, experts in this field will be needed to develop and implement quantum computing solutions.
+11. **Digital Marketing Specialists**: $80,000 - $150,000 per year. With the increasing importance of online marketing, digital marketing specialists will be needed to develop and implement effective marketing strategies.
+12. **Blockchain Developers**: $100,000 - $180,000 per year. As blockchain technology becomes more widely adopted, blockchain developers will be needed to design and implement blockchain-based solutions.
+13. **Renewable Energy Engineers**: $90,000 - $160,000 per year. With the growing focus on sustainability, renewable energy engineers will be needed to design and implement sustainable energy solutions.
+14. **Autonomous Vehicle Engineers**: $120,000 - $200,000 per year. As autonomous vehicles become more prevalent, engineers with expertise in this field will be in high demand.
+15. **Virtual Reality/Augmented Reality Experts**: $100,000 - $180,000 per year. With the growing use of VR/AR in various industries, experts in this field will be needed to design and implement immersive experiences.
+
+Keep in mind that salaries can vary widely depending on factors like location, industry, experience, and specific company. Additionally, while these jobs may be in high demand, it's essential to consider your passions, skills, and interests when choosing a career path.
+Score: 0.6019 | Result: FAIL
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating the accuracy of an AI model involves comparing its predictions to the actual outcomes or labels in a test dataset. Here are the steps to calculate AI model accuracy:
+
+1. **Prepare a test dataset**: Set aside a portion of your data for testing, which should not be used during model training. This dataset should be representative of the data the model will encounter in real-world scenarios.
+2. **Make predictions**: Use your trained AI model to make predictions on the test dataset.
+3. **Compare predictions to actual labels**: For each prediction, compare it to the actual label or outcome in the test dataset.
+4. **Calculate accuracy metrics**: There are several accuracy metrics you can use, depending on the type of problem you're trying to solve:
+	* **Classification accuracy**: For classification problems, calculate the proportion of correct predictions out of total predictions.
+	* **Mean Absolute Error (MAE)**: For regression problems, calculate the average difference between predicted and actual values.
+	* **Mean Squared Error (MSE)**: For regression problems, calculate the average of the squared differences between predicted and actual values.
+	* **F1-score**: For classification problems, calculate the harmonic mean of precision and recall.
+	* **Area Under the Curve (AUC)**: For classification problems, calculate the area under the Receiver Operating Characteristic (ROC) curve.
+5. **Calculate accuracy metrics for different classes**: If you're working on a multi-class classification problem, calculate accuracy metrics for each class separately.
+6. **Visualize results**: Use visualization tools to plot the predictions against the actual labels, which can help identify patterns and areas for improvement.
+
+Some common metrics used to evaluate AI model accuracy include:
+
+* **Accuracy**: (TP + TN) / (TP + TN + FP + FN)
+* **Precision**: TP / (TP + FP)
+* **Recall**: TP / (TP + FN)
+* **F1-score**: 2 \* (Precision \* Recall) / (Precision + Recall)
+* **Mean Absolute Error (MAE)**: (1/n) \* Σ|y_true - y_pred|
+* **Mean Squared Error (MSE)**: (1/n) \* Σ(y_true - y_pred)^2
+
+where:
+
+* TP: True Positives
+* TN: True Negatives
+* FP: False Positives
+* FN: False Negatives
+* y_true: Actual labels
+* y_pred: Predicted labels
+* n: Number of samples
+
+By using these metrics and following these steps, you can calculate the accuracy of your AI model and identify areas for improvement.
+Score: 0.8458 | Result: FAIL
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: The coldest place on Earth is generally considered to be Antarctica, specifically the region around the South Pole. However, there are several locations that can be considered the coldest, depending on the criteria used. Here are a few contenders:
+
+1. **Oymyakon, Russia**: This village in the Sakha Republic is often referred to as the coldest inhabited place on Earth. It has a subarctic climate, with extremely cold winters and short, cool summers. The lowest recorded temperature in Oymyakon was -71.2°C (-96°F) on January 26, 1924.
+2. **Verkhoyansk, Russia**: Located in the Sakha Republic, Verkhoyansk is known for its extreme temperature fluctuations. The lowest recorded temperature was -67.8°C (-90°F) on February 5, 1891, while the highest recorded temperature was 37.8°C (100°F) on July 25, 1915.
+3. **Plateau Station, Antarctica**: This research station, located on the Antarctic Plateau, is one of the coldest places on Earth. The lowest recorded temperature was -73.3°C (-99.9°F) on July 21, 1968.
+4. **Vostok Station, Antarctica**: This Russian research station, located in the center of Antarctica, is another contender for the coldest place on Earth. The lowest recorded temperature was -89.2°C (-129°F) on July 21, 1983, making it the lowest recorded temperature on Earth.
+
+It's worth noting that the coldest place on Earth can vary depending on the time of year and other factors. However, Antarctica and the regions surrounding the South Pole are generally considered the coldest places on the planet.
+
+**Why is Antarctica so cold?**
+
+Antarctica is cold due to several factors:
+
+1. **Latitude**: Antarctica is located at the South Pole, which means it receives very little sunlight during the winter months.
+2. **Elevation**: The Antarctic Plateau is a high-altitude region, with an average elevation of around 3,000 meters (10,000 feet). This high elevation contributes to the cold temperatures.
+3. **Cold ocean currents**: The surrounding oceans, such as the Southern Ocean, are very cold, which helps to keep the continent cold.
+4. **Dry air**: Antarctica has a very dry atmosphere, which allows heat to escape more easily, contributing to the cold temperatures.
+
+These factors combined make Antarctica the coldest place on Earth.
+Score: 0.8183 | Result: FAIL
+------------------------------------------------------------
+Q9:which is the alcohal dry state of india?
+Actual: The alcohol dry state in India is Gujarat. Gujarat is the only state in India where the sale, manufacture, and consumption of alcohol are prohibited, making it a 'dry state'. This prohibition has been in place since 1960, when the state was formed, and it is due to the influence of Mahatma Gandhi, who was born in Gujarat and was a strong advocate for prohibition. However, there are some exceptions, such as for medical purposes or for foreigners and tourists who can obtain a permit to consume alcohol in certain areas.
+Score: 0.8446 | Result: FAIL
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: In India, there are currently 8 Union Territories (UTs). Here's the list:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: On November 26, 2020, the Indian government announced the merger of the union territories of Dadra and Nagar Haveli and Daman and Diu into a single union territory, Dadra and Nagar Haveli and Daman and Diu, bringing the number of union territories down to 8 from the previous 9 (Dadra and Nagar Haveli and Daman and Diu were separate union territories before the merger).
+Score: 0.8582 | Result: PASS
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have information about a person named Ranvir, including their profession. If you could provide more context or details, I may be able to help you better.
+Score: Match | Result: PASS
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: I don't have information about an author named Ranvir. Could you provide more context or details about Ranvir, such as their full name or the type of books they write? This would help me better understand your question and provide a more accurate response.
+Score: Match | Result: PASS
+------------------------------------------------------------
+
+    ==================== SUMMARY ====================
+    Total Questions : 12
+    Passed          : 5
+    Failed          : 7
+    Pass Percentage : 41.67%
+    =================================================
+    

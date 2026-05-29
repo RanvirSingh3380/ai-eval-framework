@@ -1,0 +1,233 @@
+Q1:What is the capital of France?
+Actual: The capital of France is Paris.
+Score: 1.0 | Result: PASS
+------------------------------------------------------------
+Q2:What is 2 + 2?
+Actual: 2 + 2 equals 4.
+Score: 1.0 | Result: PASS
+------------------------------------------------------------
+Q3:how many continents have major pyramids or ancient structures?
+Actual: There are at least 4 continents with major pyramids or ancient structures:
+
+1. **Africa**: Home to the most famous pyramids, the Pyramids of Giza in Egypt, as well as others in Sudan (e.g., Pyramids of Kush at Meroe) and Ethiopia.
+2. **Asia**: Features ancient structures like the Pyramids of China (e.g., the Great White Pyramid, although its existence is disputed), the Pyramids of Indonesia (e.g., Gunung Padang), and the temples of Angkor Wat in Cambodia.
+3. **North America**: Has several ancient pyramid structures, including the Pyramids of Teotihuacán in Mexico, the Cahokia Mounds in the United States (the largest pre-Columbian earthen pyramid north of Mexico), and the pyramids of the Maya civilization in Mexico, Guatemala, and Belize.
+4. **South America**: Boasts numerous ancient structures, such as the Pyramids of Túcume in Peru, the Pyramid of the Sun in Bolivia, and the ancient city of Caral in Peru, which features pyramidal structures.
+
+Additionally, there are ancient structures in **Europe**, like the Pyramids of Bosnia (disputed) and the ancient megalithic structures in Malta and Greece.
+
+It's worth noting that while **Australia** and **Antarctica** do not have major pyramids or ancient structures similar to those found on other continents, there are some ancient Aboriginal rock art and stone arrangements in Australia, and some research stations and historical relics on Antarctica. However, these are not comparable to the large-scale pyramids and ancient structures found on other continents.
+Score: 0.7358 | Result: PASS
+------------------------------------------------------------
+Q4:what is prediction for IT sector in 2050?
+Actual: Based on current trends and available data, here's a potential prediction for the IT sector in 2050:
+
+**Key Trends:**
+
+1. **Artificial Intelligence (AI) and Machine Learning (ML)**: AI and ML will be ubiquitous, transforming industries and revolutionizing the way we live and work. AI-powered systems will be capable of autonomous decision-making, problem-solving, and learning.
+2. **Internet of Things (IoT)**: The IoT will continue to grow, with an estimated 100 billion connected devices by 2050. This will lead to a vast amount of data being generated, which will be harnessed to improve efficiency, productivity, and decision-making.
+3. **Quantum Computing**: Quantum computing will become a reality, enabling simulations and calculations that are currently impossible with traditional computers. This will drive breakthroughs in fields like medicine, finance, and materials science.
+4. **5G and 6G Networks**: Next-generation wireless networks will provide ultra-fast, low-latency connectivity, enabling immersive technologies like augmented reality (AR) and virtual reality (VR) to become mainstream.
+5. **Cloud Computing**: Cloud computing will continue to dominate, with more organizations adopting hybrid and multi-cloud strategies to ensure flexibility, scalability, and security.
+6. **Cybersecurity**: As the amount of data and connected devices increases, cybersecurity will become a top priority. Advanced threat detection, prevention, and response systems will be developed to protect against sophisticated cyberattacks.
+7. **Extended Reality (XR)**: XR technologies, including AR, VR, and mixed reality (MR), will become increasingly popular, changing the way we interact with information, entertainment, and each other.
+
+**Potential Job Roles in 2050:**
+
+1. **AI/ML Engineer**: Developing and implementing AI and ML models to drive business decision-making.
+2. **Data Scientist**: Analyzing and interpreting complex data sets to gain insights and inform business strategies.
+3. **Cloud Architect**: Designing and implementing cloud infrastructure to support business applications and services.
+4. **Cybersecurity Specialist**: Protecting against cyber threats and developing incident response plans.
+5. **XR Experience Designer**: Creating immersive experiences for entertainment, education, and commerce.
+6. **Quantum Computing Specialist**: Developing and applying quantum computing solutions to solve complex problems.
+7. **Digital Transformation Consultant**: Helping organizations navigate digital transformation and implement new technologies.
+
+**Challenges and Opportunities:**
+
+1. **Skills Gap**: The IT sector will face a significant skills gap, as the demand for specialized skills like AI, ML, and cybersecurity outpaces the supply of qualified professionals.
+2. **Job Displacement**: Automation and AI may displace certain jobs, but they will also create new opportunities for employment and entrepreneurship.
+3. **Data Privacy and Security**: The increasing amount of data being generated and shared will raise concerns about data privacy and security, which will need to be addressed through robust regulations and technologies.
+4. **Sustainability**: The IT sector will need to prioritize sustainability, reducing its carbon footprint and promoting environmentally friendly practices throughout the industry.
+
+**Conclusion:**
+The IT sector in 2050 will be characterized by rapid technological advancements, new job roles, and evolving challenges. As the industry continues to transform, it's essential for professionals, organizations, and governments to work together to address the opportunities and challenges that arise, ensuring a future that is both beneficial and sustainable for all.
+Score: 0.6357 | Result: PASS
+------------------------------------------------------------
+Q5:who rule the world?
+Actual: The answer to this question can be subjective and dependent on various perspectives. However, I can provide some insights based on different aspects of global influence and power.
+
+** Politically:**
+The world is comprised of over 190 countries, each with its own government and leadership. There isn't a single entity or individual that rules the entire world. Instead, countries are governed by their respective governments, which can be democratic, authoritarian, or a mix of both.
+
+** Economically:**
+The global economy is shaped by various factors, including international trade, finance, and multinational corporations. Some of the most influential economic powers include:
+
+1. The United States: With the largest economy in the world, the US has significant influence over global trade and finance.
+2. China: As the second-largest economy, China is increasingly becoming a major player in global trade and finance.
+3. The European Union: As a collective economic entity, the EU has significant influence over global trade and finance.
+
+** Technologically:**
+The tech industry is dominated by a few large corporations, including:
+
+1. Google (Alphabet Inc.): A leader in search, advertising, and artificial intelligence.
+2. Amazon: A dominant player in e-commerce, cloud computing, and artificial intelligence.
+3. Microsoft: A leader in software, cloud computing, and gaming.
+
+** Culturally:**
+Cultural influence can be subjective, but some of the most influential cultures include:
+
+1. Western culture (US, Europe, etc.): With a significant impact on global media, entertainment, and values.
+2. Chinese culture: With a growing global influence, particularly in Asia and beyond.
+3. Indian culture: With a significant impact on global cuisine, music, and spirituality.
+
+In conclusion, there isn't a single entity or individual that rules the world. Instead, influence and power are distributed among various countries, economies, corporations, and cultures. The world is a complex and interconnected system, with many different players shaping its trajectory.
+Score: 0.7568 | Result: PASS
+------------------------------------------------------------
+Q6:High paid jobs un 2026?
+Actual: Based on current trends and forecasts, here are some high-paying job opportunities that may be in demand in 2026:
+
+1. **Data Scientists**: With the increasing use of big data and artificial intelligence, data scientists can expect high salaries, ranging from $118,000 to over $170,000 per year.
+2. **Cloud Architects**: As companies move to cloud computing, cloud architects will be in high demand, with salaries ranging from $141,000 to over $250,000 per year.
+3. **DevOps Engineers**: DevOps engineers will continue to be in high demand, with salaries ranging from $115,000 to over $200,000 per year.
+4. **Cybersecurity Experts**: With the increasing threat of cyberattacks, cybersecurity experts will be in high demand, with salaries ranging from $120,000 to over $250,000 per year.
+5. **Artificial Intelligence/Machine Learning Engineers**: AI/ML engineers will continue to be in high demand, with salaries ranging from $141,000 to over $250,000 per year.
+6. **Healthcare Technologists**: With the increasing use of technology in healthcare, healthcare technologists, such as medical imaging technicians and healthcare IT specialists, can expect high salaries, ranging from $80,000 to over $150,000 per year.
+7. **Quantum Computing Professionals**: As quantum computing becomes more prevalent, professionals with expertise in this area can expect high salaries, ranging from $150,000 to over $250,000 per year.
+8. **Renewable Energy Engineers**: With the increasing focus on sustainability, renewable energy engineers can expect high salaries, ranging from $90,000 to over $150,000 per year.
+9. **Computer Vision Engineers**: Computer vision engineers will be in high demand, with salaries ranging from $125,000 to over $200,000 per year.
+10. **Full Stack Developers**: Full stack developers will continue to be in high demand, with salaries ranging from $100,000 to over $200,000 per year.
+11. **Digital Transformation Consultants**: Digital transformation consultants will be in high demand, with salaries ranging from $100,000 to over $200,000 per year.
+12. **Virtual Reality/Augmented Reality Developers**: VR/AR developers will be in high demand, with salaries ranging from $100,000 to over $200,000 per year.
+13. **Blockchain Developers**: Blockchain developers will be in high demand, with salaries ranging from $100,000 to over $200,000 per year.
+14. **Environmental Scientists**: Environmental scientists will be in high demand, with salaries ranging from $70,000 to over $150,000 per year.
+15. **Biotechnology Researchers**: Biotechnology researchers will be in high demand, with salaries ranging from $80,000 to over $150,000 per year.
+
+Keep in mind that salaries can vary widely depending on factors like location, industry, experience, and specific company. These figures are based on national averages and online sources, and should be used as a rough guide only.
+Score: 0.6 | Result: PASS
+------------------------------------------------------------
+Q7:how can we calculate AI model accuracy?
+Actual: Calculating AI model accuracy involves evaluating the performance of a machine learning model by comparing its predictions with actual outcomes. Here are the steps to calculate AI model accuracy:
+
+1. **Data Split**: Split your dataset into training and testing sets (e.g., 80% for training and 20% for testing). The training set is used to train the model, while the testing set is used to evaluate its performance.
+2. **Make Predictions**: Use the trained model to make predictions on the testing set.
+3. **Compare Predictions with Actual Outcomes**: Compare the predicted values with the actual values in the testing set.
+4. **Calculate Accuracy Metrics**: Calculate the following accuracy metrics:
+	* **Accuracy**: The proportion of correctly classified instances (true positives + true negatives) out of all instances in the testing set.
+	* **Precision**: The proportion of true positives out of all predicted positive instances.
+	* **Recall**: The proportion of true positives out of all actual positive instances.
+	* **F1 Score**: The harmonic mean of precision and recall.
+	* **Mean Squared Error (MSE)**: The average squared difference between predicted and actual values (for regression problems).
+	* **Mean Absolute Error (MAE)**: The average absolute difference between predicted and actual values (for regression problems).
+5. **Interpret Results**: Interpret the accuracy metrics to understand the model's performance. For example:
+	* High accuracy and F1 score indicate good performance.
+	* Low precision and recall indicate overfitting or underfitting.
+	* High MSE and MAE indicate poor performance in regression problems.
+
+**Classification Metrics**:
+
+| Metric | Formula |
+| --- | --- |
+| Accuracy | (TP + TN) / (TP + TN + FP + FN) |
+| Precision | TP / (TP + FP) |
+| Recall | TP / (TP + FN) |
+| F1 Score | 2 \* (Precision \* Recall) / (Precision + Recall) |
+
+**Regression Metrics**:
+
+| Metric | Formula |
+| --- | --- |
+| Mean Squared Error (MSE) | (1/n) \* Σ(actual - predicted)^2 |
+| Mean Absolute Error (MAE) | (1/n) \* Σ|actual - predicted| |
+
+where:
+TP = True Positives
+TN = True Negatives
+FP = False Positives
+FN = False Negatives
+n = number of instances in the testing set
+
+**Example**:
+
+Suppose you have a binary classification problem, and your model predicts the following:
+
+| Actual | Predicted |
+| --- | --- |
+| 1 | 1 |
+| 0 | 0 |
+| 1 | 1 |
+| 0 | 1 |
+| 1 | 0 |
+
+To calculate the accuracy metrics:
+
+1. True Positives (TP) = 2
+2. True Negatives (TN) = 1
+3. False Positives (FP) = 1
+4. False Negatives (FN) = 1
+
+Accuracy = (TP + TN) / (TP + TN + FP + FN) = (2 + 1) / (2 + 1 + 1 + 1) = 3/5 = 0.6
+Precision = TP / (TP + FP) = 2 / (2 + 1) = 2/3 = 0.67
+Recall = TP / (TP + FN) = 2 / (2 + 1) = 2/3 = 0.67
+F1 Score = 2 \* (Precision \* Recall) / (Precision + Recall) = 2 \* (0.67 \* 0.67) / (0.67 + 0.67) = 0.67
+
+In this example, the model has an accuracy of 0.6, precision of 0.67, recall of 0.67, and an F1 score of 0.67.
+Score: 0.8199 | Result: PASS
+------------------------------------------------------------
+Q8:coldest place on the earth?
+Actual: The coldest place on Earth is generally considered to be Antarctica, specifically the region around the Russian Vostok Station. This station is located in the center of the Antarctic Plateau, which is a vast, elevated region of ice that covers most of the continent.
+
+The coldest temperature ever recorded on Earth was measured at Vostok Station on July 21, 1983, and it was a chilling -128.6 degrees Fahrenheit (-89.2 degrees Celsius). This extreme cold is due to the station's location in the heart of the Antarctic winter, as well as its high elevation (approximately 11,444 feet or 3,488 meters above sea level).
+
+Other contenders for the coldest place on Earth include:
+
+1. Oymyakon, Russia: This village in the Sakha Republic is often referred to as the coldest inhabited place on Earth, with temperatures as low as -96.1 degrees Fahrenheit (-71.2 degrees Celsius) recorded in 1924.
+2. Snag, Yukon, Canada: This village in the Yukon Territory has recorded temperatures as low as -81.4 degrees Fahrenheit (-63 degrees Celsius).
+3. Eismitte, Greenland: This research station on the Greenland ice sheet has recorded temperatures as low as -85 degrees Fahrenheit (-65 degrees Celsius).
+4. Plateau Station, Antarctica: This research station, located on the Antarctic Plateau, has recorded temperatures as low as -119.2 degrees Fahrenheit (-84 degrees Celsius).
+
+It's worth noting that these extreme cold temperatures are typically recorded in remote, uninhabited areas, and are not representative of the average temperatures experienced by people living in these regions.
+Score: 0.9019 | Result: PASS
+------------------------------------------------------------
+Q9:which is the dry state of india?
+Actual: Rajasthan is often considered the driest state in India, due to its arid climate and low average annual rainfall. It is located in the northwestern part of the country and covers a significant portion of the Thar Desert, also known as the Cholistan Desert. The state's dry climate is characterized by very little rainfall, with an average annual rainfall of around 100 mm (3.9 in) in some areas, making it one of the driest places in India.
+
+Some other dry states in India include:
+
+* Gujarat: Located in western India, Gujarat has a semi-arid climate with low rainfall, especially in the Kutch region.
+* Haryana: This state in northern India has a semi-arid climate with low rainfall, especially in the southwestern parts.
+* Maharashtra: While not as dry as Rajasthan, Maharashtra has a significant portion of its area classified as semi-arid, especially in the Vidarbha region.
+
+However, it's worth noting that the driest place in India is actually the district of Jaisalmer in Rajasthan, which receives an average annual rainfall of just 12 cm (4.7 in).
+Score: 0.5443 | Result: PASS
+------------------------------------------------------------
+Q10:how many UT are in india?
+Actual: There are 8 Union Territories (UTs) in India:
+
+1. Andaman and Nicobar Islands
+2. Chandigarh
+3. Dadra and Nagar Haveli and Daman and Diu
+4. Delhi
+5. Jammu and Kashmir
+6. Ladakh
+7. Lakshadweep
+8. Puducherry
+
+Note: Prior to 2020, there were 7 UTs in India, but the merger of Dadra and Nagar Haveli with Daman and Diu, and the reorganization of Jammu and Kashmir into two separate UTs (Jammu and Kashmir, and Ladakh) has resulted in the current 8 UTs.
+Score: 0.8902 | Result: PASS
+------------------------------------------------------------
+Q11:what is ranvir's profession?
+Actual: I don't have enough information to determine Ranvir's profession. Could you please provide more context or details about Ranvir? This will help me give a more accurate answer.
+Score: Match | Result: PASS
+------------------------------------------------------------
+Q12:is ranvir an author?
+Actual: Ranvir Singh is a British journalist and television presenter, but I couldn't find any specific information on her being an author. She has presented various TV shows, including Good Morning Britain and ITV's news programs. If you're thinking of a different Ranvir, could you provide more context or details about the Ranvir you're referring to? I'll do my best to help.
+Score: Match | Result: PASS
+------------------------------------------------------------
+
+    ==================== SUMMARY ====================
+    Total Questions : 12
+    Passed          : 12
+    Failed          : 0
+    Pass Percentage : 100.0%
+    =================================================
+    
