@@ -38,5 +38,19 @@ ai_eval_framework/
 2. **Layer 2** - Hallucination detected via uncertainty keyword matching
 3. **Layer 3** - LLM-as-Judge *(coming soon)*
 
+## Data Generation
+Synthatic test datasets can be auto-generated from raw text or articles using built-in DataGenerator
+- Automatically creates factual, opinion and hallucination_test questions
+- Output follows the same JSON structure as the evaluation dataset
+- Plug n Play - generate datasets work directly with the evaluation framework
+  
+Run: `python test_data_generator.py`
+
+## Design Decisions
+- **Groq API** - Used for evaluation and data generation. Fast, free tier, no data storage.
+- **Offline option** - Ollama with Mistral 7B planned for privacy-first environments requiring 16GB+ RAM.
+- **Sentence Transformers** — Chosen for offline semantic similarity scoring without API dependency.
+- **LLM-as-Judge** — Added for opinion and complex questions where semantic similarity alone is insufficient.
+
 ## Author
 Ranvir Singh - QA Manager transitioning to AI Quality Engineering 
