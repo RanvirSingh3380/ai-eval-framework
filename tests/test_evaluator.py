@@ -36,7 +36,13 @@ with open(log_file, 'w') as log:
 
         if item["type"] == "hallucination_test":
             score,result = evaluator.is_hallucination_caught(actual)
-            judge_result = None
+            if result == 'FAIL':
+                judge_response = judge.evaluate(question, expected[0], actual)
+                judge_result = parser.parse(judge_response)
+                result = judge_result['verdict']
+                score = f"LLM-Judge: {result}"
+            else:
+                judge_result = None
 
         elif item["type"] == "opinion":
             score, result = evaluator.evaluate(actual, expected)
@@ -50,7 +56,13 @@ with open(log_file, 'w') as log:
 
         else:
             score, result = evaluator.evaluate(actual,expected)
-            judge_result = None
+            if result == 'FAIL' and isinstance(score, float) and score >= 0.80:
+                judge_response = judge.evaluate(question, expected[0], actual)
+                judge_result = parser.parse(judge_response)
+                result = judge_result['verdict']
+                score = f"LLM-Judge: {result}"
+            else:
+                judge_result = None
 
         if result == "PASS":
             passed += 1

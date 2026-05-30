@@ -25,3 +25,18 @@ for q in questions:
 
 generator.save_dataset(questions,'dataset/generated_dataset.json')
 
+print("\n-----------Testing Excel Integration------------")
+excel_questions = generator.generate_from_excel(
+'dataset/test_data.xlsx',
+    column_name='content',
+    num_questions=10
+)
+
+for q in excel_questions:
+    print(f"ID: {q['id']}")
+    print(f"Type: {q['type']}")
+    print(f"Question: {q['question']}")
+    print(("-" * 50))
+
+generator.save_dataset(excel_questions, 'dataset/excel_generated_dataset.json')
+

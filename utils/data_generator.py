@@ -2,6 +2,7 @@ import json
 import os
 from groq import Groq
 from dotenv import load_dotenv
+import openpyxl
 
 load_dotenv()
 
@@ -53,6 +54,19 @@ class DataGenerator:
         clean = clean.strip()
 
         return json.loads(clean)
+
+    def generate_from_excel(self, excel_path, column_name, num_questions=10):
+        wb = openpyxl.load_workbook(excel_path)
+        ws = wb.active
+
+        headers = [cell.value for cell in ws[1]]
+        col_index = headers.index(column_name)
+
+        raw_text = ""
+        for row in ws.iter_rows(min_row=2, values_only=True):
+            if row[col_index]:
+                raw_text += str(row[col_index])+ "\n"
+        return self.generate_from_text(raw_text, num_questions)
 
     def save_dataset(self, questions, output_path):
         with open(output_path, 'w') as f:
