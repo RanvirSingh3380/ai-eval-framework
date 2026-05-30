@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "question": "What is machine learning and how does it work?",
+    "expected_answer": [
+      "Machine learning is a subset of Artificial Intelligence (AI) that allows computers to learn from data without being explicitly programmed. This means that machines can improve their performance on a task over time, without being specifically told how to do it. Machine learning enables computers to automatically detect patterns in data and make decisions or predictions based on that data."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 2,
+    "question": "What are some applications of Artificial Intelligence in various industries?",
+    "expected_answer": [
+      "Artificial Intelligence (AI) is being used in various industries such as healthcare to diagnose diseases, in finance to detect fraud, and in transportation for self-driving cars. AI is also being used in other industries, but these are a few examples. The use of AI in these industries has the potential to improve efficiency, accuracy, and decision-making."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 3,
+    "question": "What is the expected size of the global AI market by 2030?",
+    "expected_answer": [
+      "The global AI market is expected to reach $1.8 trillion by 2030. This indicates a significant growth in the adoption and use of AI technologies across various industries. The market size is expected to increase as more companies and organizations invest in AI research and development."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 4,
+    "question": "What is deep learning and how is it used in AI?",
+    "expected_answer": [
+      "Deep learning is a type of machine learning that uses neural networks with many layers to process complex patterns. Deep learning is used in AI to enable computers to learn from large amounts of data, such as images, speech, and text. This allows AI systems to improve their performance on tasks such as image recognition, natural language processing, and speech recognition."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 5,
+    "question": "How do experts feel about the impact of AI on jobs?",
+    "expected_answer": [
+      "Some experts worry about job displacement due to AI automation, as they believe that AI may automate certain jobs, leading to job losses. Others believe that AI will create more jobs than it eliminates, as it will enable new industries and job opportunities to emerge. The impact of AI on jobs is a topic of ongoing debate among experts."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 6,
+    "question": "What is Artificial Intelligence and how is it transforming the world?",
+    "expected_answer": [
+      "Artificial Intelligence (AI) is a technology that allows computers to perform tasks that typically require human intelligence, such as learning, problem-solving, and decision-making. AI is transforming the world in many ways, including improving healthcare, finance, and transportation. AI is also enabling new technologies, such as self-driving cars, and is expected to have a significant impact on various industries and aspects of life."
+    ],
+    "type": "factual"
+  },
+  {
+    "id": 7,
+    "question": "Do you think AI will have a positive or negative impact on society?",
+    "expected_answer": [
+      "I think AI will have a positive impact on society because it will improve efficiency and accuracy in many industries. I think AI will have a negative impact on society because it may displace jobs and exacerbate existing social inequalities. I think AI will have both positive and negative impacts on society, and it's up to us to ensure that its benefits are shared by all and its negative consequences are mitigated."
+    ],
+    "type": "opinion"
+  },
+  {
+    "id": 8,
+    "question": "Will AI surpass human intelligence in the future?",
+    "expected_answer": [
+      "Yes, I think AI will surpass human intelligence in the future because it has the potential to process and analyze vast amounts of data much faster and more accurately than humans. No, I don't think AI will surpass human intelligence in the future because it lacks the creativity, empathy, and common sense that humans possess. It's possible that AI will surpass human intelligence in certain domains, but it's unlikely to surpass human intelligence overall."
+    ],
+    "type": "opinion"
+  },
+  {
+    "id": 9,
+    "question": "What is the average airspeed velocity of an AI-powered unicorn?",
+    "expected_answer": [
+      "I don't know",
+      "I don't have information about that."
+    ],
+    "type": "hallucination_test"
+  },
+  {
+    "id": 10,
+    "question": "Can you describe the AI-powered city that will be built on the moon by 2025?",
+    "expected_answer": [
+      "I don't know",
+      "I don't have information about that."
+    ],
+    "type": "hallucination_test"
+  }
+]

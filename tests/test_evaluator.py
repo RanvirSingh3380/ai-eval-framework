@@ -5,6 +5,7 @@ from utils.groq_client import GroqClient
 from utils.report_generator import ReportGenerator
 from utils.llm_judge import LLMJudge
 from utils.judge_parser import JudgeParser
+import webbrowser
 
 # Initialize Evaluator
 evaluator = Evaluator(threshold=0.85)
@@ -17,7 +18,7 @@ log_file= os.path.join(log_dir, f"eval_{datetime.datetime.now().strftime('%Y%m%d
 
 # Load dataset
 dataset = evaluator.load_dataset(
-    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dataset', 'qa_dataset.json')
+    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dataset', 'generated_dataset.json')
 )
 
 # Run Evaluation
@@ -118,6 +119,9 @@ with open(log_file, 'w') as log:
 
     reporter = ReportGenerator(results, summary)
     reporter.generate_html(report_path)
+
+
+webbrowser.open(f"file://{report_path}")
 
 print(f"\nLog saved to: {log_file}")
 
