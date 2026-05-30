@@ -3,10 +3,14 @@ import os
 import datetime
 from utils.groq_client import GroqClient
 from utils.report_generator import ReportGenerator
+from utils.llm_judge import LLMJudge
+from utils.judge_parser import JudgeParser
 
 # Initialize Evaluator
 evaluator = Evaluator(threshold=0.85)
-groq= GroqClient()
+groq = GroqClient()
+judge = LLMJudge()
+parser = JudgeParser()
 
 log_dir= os.path.join(os.path.dirname(os.path.dirname(__file__)),'logs')
 log_file= os.path.join(log_dir, f"eval_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
@@ -31,8 +35,21 @@ with open(log_file, 'w') as log:
 
         if item["type"] == "hallucination_test":
             score,result = evaluator.is_hallucination_caught(actual)
+            judge_result = None
+
+        elif item["type"] == "opinion":
+            score, result = evaluator.evaluate(actual, expected)
+            if result == 'FAIL':
+                judge_response = judge.evaluate(question, expected[0], actual)
+                judge_result = parser.parse(judge_response)
+                result = judge_result['verdict']
+                score = f"LLM-Judge: {result}"
+            else:
+                judge_result = None
+
         else:
             score, result = evaluator.evaluate(actual,expected)
+            judge_result = None
 
         if result == "PASS":
             passed += 1
@@ -43,10 +60,19 @@ with open(log_file, 'w') as log:
             'actual': actual,
             'score': score,
             'result': result,
-            'type': item['type']
+            'type': item['type'],
+            'judge_result': judge_result
         })
 
-        line = f"Q{qid}:{question}\nActual: {actual}\nScore: {score} | Result: {result}\n{'-' * 60}\n"
+        line = f"Q{qid}:{question}\nActual:{actual}\nScore:{score}\n | Result:{result}"
+        if judge_result:
+            line += f"LLM Judge Verdict: {judge_result['verdict']}\n"
+            line += f"Positional Bias Risk: {judge_result['positional_bias_risk']}\n"
+            line += f"Human Escalation Needed: {judge_result['human_escalation_needed']}\n"
+            line += f"Reason: {judge_result['reason']}\n"
+
+        line += f"{'-' * 60}\n"
+
         print(line)
         log.write(line)
 

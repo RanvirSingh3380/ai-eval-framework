@@ -5,15 +5,29 @@ class ReportGenerator:
 
     def generate_html(self, output_path):
         rows = ""
+
         for r in self.results:
             color = "#2ecc71" if r['result'] == "PASS" else "#e74c3c"
+            actual_display = r['actual'][:300] + '...' if len(r['actual']) > 300 else r['actual']
+
+            judge_info = ""
+            if r.get('judge_result'):
+                jr = r['judge_result']
+                judge_info = f"""
+                    <b>Verdict:</b> {jr['verdict']}<br>
+                    <b>Bias Risk:</b> {jr['positional_bias_risk']}<br>
+                    <b>Escalation:</b> {jr['human_escalation_needed']}<br>
+                    <b>Reason:</b> {jr['reason']}
+                    """
+
             rows += f"""
             <tr>
                 <td>{r['id']}</td>
                 <td>{r['question']}</td>
-                <td>{r['actual']}</td>
+                <td>{actual_display}</td>
                 <td>{r['score']}</td>
                 <td style="background-color:{color}; color:white; font-weight:bold;">{r['result']}</td>
+                <td>{judge_info}</td>
             </tr>
             """
 
@@ -64,6 +78,7 @@ class ReportGenerator:
                     <th>Actual Response</th>
                     <th>Score</th>
                     <th>Result</th>
+                    <th>Judge Details</th>
                 </tr>
                 {rows}
             </table>
