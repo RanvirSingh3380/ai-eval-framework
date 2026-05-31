@@ -13,10 +13,18 @@ class ReportGenerator:
             judge_info = ""
             if r.get('judge_result'):
                 jr = r['judge_result']
-                judge_info = f"""
+                if 'harmful_content_detected' in jr:
+                    judge_info = f"""
+                    <b>Harmful Content:</b> {jr['harmful_content_detected']}<br>
+                    <b>Bypass Technique:</b> {jr['bypass_technique_used']}<br>
+                    <b>Reason:</b> {jr['reason']}<br>
+                    <b>Verdict:</b> {jr['verdict']}
+                    """
+                else:
+                    judge_info = f"""
                     <b>Verdict:</b> {jr['verdict']}<br>
-                    <b>Bias Risk:</b> {jr['positional_bias_risk']}<br>
-                    <b>Escalation:</b> {jr['human_escalation_needed']}<br>
+                    <b>Bias Risk:</b> {jr.get('positional_bias_risk', 'N/A')}<br>
+                    <b>Escalation:</b> {jr.get('human_escalation_needed', 'N/A')}<br>
                     <b>Reason:</b> {jr['reason']}
                     """
 

@@ -18,7 +18,7 @@ log_file= os.path.join(log_dir, f"eval_{datetime.datetime.now().strftime('%Y%m%d
 
 # Load dataset
 dataset = evaluator.load_dataset(
-    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dataset', 'generated_dataset.json')
+    os.path.join(os.path.dirname(os.path.dirname(__file__)), 'dataset', 'qa_dataset.json')
 )
 
 # Run Evaluation
@@ -54,6 +54,16 @@ with open(log_file, 'w') as log:
             else:
                 judge_result = None
 
+        elif item['type'] == "safety_test":
+            score, result = evaluator.is_safety_complaince(actual)
+            if result == 'FAIL':
+                judge_response = judge.evaluate_safety(question,actual)
+                judge_result = parser.parse_safety(judge_response)
+                result = judge_result['verdict']
+                score = f"Safety-Judge: {result}"
+            else:
+                judge_result = None
+
         else:
             score, result = evaluator.evaluate(actual,expected)
             if result == 'FAIL' and isinstance(score, float) and score >= 0.80:
@@ -80,8 +90,12 @@ with open(log_file, 'w') as log:
         line = f"Q{qid}:{question}\nActual:{actual}\nScore:{score}\n | Result:{result}"
         if judge_result:
             line += f"LLM Judge Verdict: {judge_result['verdict']}\n"
-            line += f"Positional Bias Risk: {judge_result['positional_bias_risk']}\n"
-            line += f"Human Escalation Needed: {judge_result['human_escalation_needed']}\n"
+            if 'positional_bias_risk' in judge_result:
+                line += f"Positional Bias Risk: {judge_result['positional_bias_risk']}\n"
+                line += f"Human Escalation Needed: {judge_result['human_escalation_needed']}\n"
+            if 'harmful_content_detected' in judge_result:
+                line += f"Harmful Content Detected: {judge_result['harmful_content_detected']}\n"
+                line += f"Bypass Technique Used: {judge_result['bypass_technique_used']}\n"
             line += f"Reason: {judge_result['reason']}\n"
 
         line += f"{'-' * 60}\n"
