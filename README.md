@@ -52,5 +52,10 @@ Run: `python test_data_generator.py`
 - **Sentence Transformers** — Chosen for offline semantic similarity scoring without API dependency.
 - **LLM-as-Judge** — Added for opinion and complex questions where semantic similarity alone is insufficient.
 
+## Planned Enhancements
+- JMeter load testing — concurrent user simulation for AI API endpoints
+- Ollama offline integration — privacy-first data generation for 16GB+ RAM machines
+- Ensemble voting — panel of LLM judges for complex evaluation
+
 ## Author
 Ranvir Singh - QA Manager transitioning to AI Quality Engineering 
