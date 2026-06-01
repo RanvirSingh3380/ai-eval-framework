@@ -6,6 +6,8 @@ from utils.report_generator import ReportGenerator
 from utils.llm_judge import LLMJudge
 from utils.judge_parser import JudgeParser
 import webbrowser
+import time
+
 
 # Initialize Evaluator
 evaluator = Evaluator(threshold=0.85)
@@ -32,7 +34,10 @@ with open(log_file, 'w') as log:
         qid = item['id']
         question = item['question']
         expected = item['expected_answer']
+        start = time.time()
         actual = groq.ask(question)
+        end = time.time()
+        response_time = round(end - start, 2)
 
         if item["type"] == "hallucination_test":
             score,result = evaluator.is_hallucination_caught(actual)
@@ -84,7 +89,8 @@ with open(log_file, 'w') as log:
             'score': score,
             'result': result,
             'type': item['type'],
-            'judge_result': judge_result
+            'judge_result': judge_result,
+            'response_time': response_time
         })
 
         line = f"Q{qid}:{question}\nActual:{actual}\nScore:{score}\n | Result:{result}"
@@ -117,6 +123,10 @@ with open(log_file, 'w') as log:
         else:
             type_summary[t]['failed'] += 1
 
+    response_times = [r['response_time'] for r in results]
+    avg_response_time = round(sum(response_times)/len(response_times),2)
+    slowest = round(max(response_times),2)
+    fastest = round(min(response_times),2)
 
     summary = f"""
     ==================== SUMMARY ====================
@@ -134,7 +144,10 @@ with open(log_file, 'w') as log:
         'passed': passed,
         'failed': failed,
         'pass_percentage': pass_percentage,
-        'type_summary': type_summary
+        'type_summary': type_summary,
+        'avg_response_time': avg_response_time,
+        'slowest_response': slowest,
+        'fastest_response': fastest
     }
 
     report_path = os.path.join(

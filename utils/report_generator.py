@@ -36,6 +36,7 @@ class ReportGenerator:
                 <td>{r['score']}</td>
                 <td style="background-color:{color}; color:white; font-weight:bold;">{r['result']}</td>
                 <td>{judge_info}</td>
+                <td>{r['response_time']}s</td>
             </tr>
             """
 
@@ -47,8 +48,9 @@ class ReportGenerator:
                 body {{ font-family: Arial; padding: 20px; }}
                 table {{ width: 100%; border-collapse: collapse; }}
                 th {{ background-color: #2c3e50; color: white; padding: 10px; }}
-                td {{ border: 1px solid #ddd; padding: 8px; vertical-align: top; }}
-                tr:nth-child(even) {{ background-color: #f2f2f2; }}
+                td {{ border: 1px solid #ddd; padding: 8px; vertical-align: top; color: #333333; }}
+                tr:nth-child(even) {{ background-color: #f2f2f2; color: #333333; }}
+                tr:nth-child(odd) {{ background-color: #ffffff; color: #333333; }}
                 .summary {{ background-color: #2c3e50; color: white; 
                             padding: 15px; margin-bottom: 20px; border-radius: 5px; }}
             </style>
@@ -60,7 +62,10 @@ class ReportGenerator:
                 <p>Total: {self.summary['total']} | 
                    Passed: {self.summary['passed']} | 
                    Failed: {self.summary['failed']} | 
-                   Pass Rate: {self.summary['pass_percentage']}%
+                   Pass Rate: {self.summary['pass_percentage']}% |
+                   Avg Response Time: {self.summary['avg_response_time']}s |
+                   slowest: {self.summary['slowest_response']}s |
+                   fastest: {self.summary['fastest_response']}s
                 </p>
             <table style="color:white; margin-top:10px; width:50%;">
                 <tr>
@@ -87,6 +92,7 @@ class ReportGenerator:
                     <th>Score</th>
                     <th>Result</th>
                     <th>Judge Details</th>
+                    <th>Time (s)</th>
                 </tr>
                 {rows}
             </table>
