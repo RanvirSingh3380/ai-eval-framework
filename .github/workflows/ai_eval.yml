@@ -24,4 +24,5 @@ jobs:
     - name: Run evaluation
       env:
         GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        PYTHONPATH: /home/runner/work/ai-eval-framework/ai-eval-framework
       run: python tests/test_evaluator.py
