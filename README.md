@@ -35,10 +35,11 @@ ai_eval_framework/
 5. Create '.env' fill with your 'GROQ_API_KEY'
 6. Run 'python tests/test_evaluator.py'
 
-## Evaluation Layer
-1. **Layer 1** - Semantic similarity scoring with 0.85 threshold
-2. **Layer 2** - Hallucination detected via uncertainty keyword matching
-3. **Layer 3** - LLM-as-Judge *(coming soon)*
+## Evaluation Layers
+1. **Layer 1** — Semantic similarity scoring with 0.85 threshold
+2. **Layer 2** — Hallucination detection via uncertainty keyword matching
+3. **Layer 3** — LLM-as-Judge with chain of thought and bias mitigation
+4. **Layer 4** — Red teaming and safety testing with bypass detection *(new)*
 
 ## Data Generation
 Synthatic test datasets can be auto-generated from raw text or articles using built-in DataGenerator
