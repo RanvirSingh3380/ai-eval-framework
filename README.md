@@ -17,6 +17,7 @@ An automated AI model evaluation framework built with python to assess LLm respo
 - Playwright
 
 ## Project Structure
+```
 ai_eval_framework/
 ├── dataset/          # Golden Q&A dataset
 ├── tests/            # Test scripts
@@ -24,6 +25,7 @@ ai_eval_framework/
 ├── reports/          # HTML evaluation reports
 ├── logs/             # Text log files
 └── screenshots/      # Evidence screenshots
+```
 
 ## Setup
 1. Clone the repository
