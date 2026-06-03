@@ -5,8 +5,10 @@ from utils.groq_client import GroqClient
 from utils.report_generator import ReportGenerator
 from utils.llm_judge import LLMJudge
 from utils.judge_parser import JudgeParser
+from utils.ensemble_judge import EnsembleJudge
 import webbrowser
 import time
+
 
 
 # Initialize Evaluator
@@ -14,6 +16,7 @@ evaluator = Evaluator(threshold=0.85)
 groq = GroqClient()
 judge = LLMJudge()
 parser = JudgeParser()
+ensemble = EnsembleJudge(num_judges=3)
 
 log_dir= os.path.join(os.path.dirname(os.path.dirname(__file__)),'logs')
 log_file= os.path.join(log_dir, f"eval_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.txt")
@@ -52,9 +55,14 @@ with open(log_file, 'w') as log:
         elif item["type"] == "opinion":
             score, result = evaluator.evaluate(actual, expected)
             if result == 'FAIL':
-                judge_response = judge.evaluate(question, expected[0], actual)
-                judge_result = parser.parse(judge_response)
-                result = judge_result['verdict']
+                ensemble_result = ensemble.evaluator(question, expected[0], actual)
+                judge_result = {
+                    'verdict': ensemble_result['final_verdict'],
+                    'positional_bias_risk': f"Votes: {ensemble_result['individual_votes']}",
+                    'human_escalation_needed': 'no',
+                    'reason': ' | '.join(ensemble_result['reasons'])
+                }
+                result = ensemble_result['final_verdict']
                 score = f"LLM-Judge: {result}"
             else:
                 judge_result = None
