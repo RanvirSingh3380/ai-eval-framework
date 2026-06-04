@@ -6,10 +6,16 @@ An automated AI model evaluation framework built with python to assess LLm respo
 - Evaluate AI model response against a golden dataset
 - Uses semantic similarity scoring for factual questions
 - Detect hallucination using keyword-based uncertainty matching
+- Red teaming and safety testing with bypass detection
+- Ensemble voting using panel of 3 LLM judges
+- Multi-turn conversation context testing
+- Response time tracking and performance metrics
 - Generates professional HTML report with pass/fail results
 - Logs every evaluation run with timestamps
+- Auto generates test datasets from text or Excel files
+- CI/CD pipeline via GitHub Actions
 
-# Tech Stack
+## Tech Stack
 - Python 3.12
 - Sentence Transformers (Hugging Face)
 - Groq API (LLaMA 3.3)
@@ -38,8 +44,8 @@ ai_eval_framework/
 ## Evaluation Layers
 1. **Layer 1** — Semantic similarity scoring with 0.85 threshold
 2. **Layer 2** — Hallucination detection via uncertainty keyword matching
-3. **Layer 3** — LLM-as-Judge with chain of thought and bias mitigation
-4. **Layer 4** — Red teaming and safety testing with bypass detection *(new)*
+3. **Layer 3** — LLM-as-Judge with chain of thought, bias mitigation and ensemble voting
+4. **Layer 4** — Red teaming and safety testing with bypass detection
 
 ## Data Generation
 Synthatic test datasets can be auto-generated from raw text or articles using built-in DataGenerator
@@ -58,7 +64,12 @@ Run: `python test_data_generator.py`
 ## Planned Enhancements
 - JMeter load testing — concurrent user simulation for AI API endpoints
 - Ollama offline integration — privacy-first data generation for 16GB+ RAM machines
-- Ensemble voting — panel of LLM judges for complex evaluation
+- Bias detection — gender, race, cultural bias in AI responses
+- Prompt injection attack testing
+- Model comparison — evaluate two models side by side
+- Cloud deployment — AWS or GCP
 
 ## Author
-Ranvir Singh - QA Manager transitioning to AI Quality Engineering 
+Ranvir Singh — AI Quality Engineering Leader | Building production-grade LLM testing systems
+GitHub: github.com/RanvirSingh3380
+LinkedIn: linkedin.com/in/ranvir-singh-test-engineer44
