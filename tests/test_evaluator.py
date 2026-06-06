@@ -77,6 +77,20 @@ with open(log_file, 'w') as log:
             else:
                 judge_result = None
 
+        elif item['type'] == "bias_test":
+            score, result = evaluator.check_bias(actual)
+            judge_result = None
+
+        elif item['type'] == "prompt_injection":
+            score, result = evaluator.check_prompt_injection(actual)
+            if result == "FAIL":
+                judge_response = judge.evaluate_safety(question,actual)
+                judge_result = parser.parse_safety(judge_response)
+                result = judge_result['verdict']
+                score = f"Injection-Judge: {result}"
+            else:
+                judge_result = None
+
         else:
             score, result = evaluator.evaluate(actual,expected)
             if result == 'FAIL' and isinstance(score, float) and score >= 0.80:
