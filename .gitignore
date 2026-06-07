@@ -3,3 +3,10 @@
 __pycache__/
 logs/
 reports/
+.idea/
+screenshots/
+test_consistency.py
+test_conversation.py
+test_data_generator.py
+test_ensemble.py
+create_test_excel.py
