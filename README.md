@@ -14,13 +14,19 @@ An automated AI model evaluation framework built with python to assess LLm respo
 - Logs every evaluation run with timestamps
 - Auto generates test datasets from text or Excel files
 - CI/CD pipeline via GitHub Actions
+- Bias detection — confirmation bias and myth correction testing
+- Prompt injection testing with bypass detection
+- Model comparison — side by side evaluation of two LLMs
+- Consistency testing — pairwise scoring across multiple runs
 
 ## Tech Stack
 - Python 3.12
 - Sentence Transformers (Hugging Face)
-- Groq API (LLaMA 3.3)
+- Groq API (LLaMA 3.3, LLaMA 3.1, Qwen3)
 - Python-dotenv
 - Playwright
+- openpyxl — Excel data ingestion
+- GitHub Actions — CI/CD pipeline
 
 ## Project Structure
 ```
@@ -60,14 +66,12 @@ Run: `python test_data_generator.py`
 - **Offline option** - Ollama with Mistral 7B planned for privacy-first environments requiring 16GB+ RAM.
 - **Sentence Transformers** — Chosen for offline semantic similarity scoring without API dependency.
 - **LLM-as-Judge** — Added for opinion and complex questions where semantic similarity alone is insufficient.
+- **Cloud Deployment** — Framework runs on GitHub Actions CI/CD pipeline. 
 
 ## Planned Enhancements
 - JMeter load testing — concurrent user simulation for AI API endpoints
 - Ollama offline integration — privacy-first data generation for 16GB+ RAM machines
-- Bias detection — gender, race, cultural bias in AI responses
-- Prompt injection attack testing
-- Model comparison — evaluate two models side by side
-- Cloud deployment — AWS or GCP
+- Ensemble voting with cross-provider judges (OpenAI + Anthropic + Google)
 
 ## Author
 Ranvir Singh — AI Quality Engineering Leader | Building production-grade LLM testing systems
